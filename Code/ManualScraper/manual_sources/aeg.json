@@ -1,0 +1,39 @@
+{
+    "manufacturer_name": "AEG",
+    "base_url": "https://www.aeg.de",
+    "onlyDynamic": true,
+    "sleepTime" : 2,
+    "paths": [
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/cm7-1-4mtm/#details",
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/kf7700/#details",
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/cm4-1-4st/#details",
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/cm6-1-5st/#details",
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/cm4-1-6st/#details",
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/ec6-1-6st/#details",
+        "/kitchen/small-kitchen-appliances/coffee-makers/coffee-maker/ec6-1-6bst/#details"
+    ],
+    "layers": [
+      {
+        "html_tag": "a",
+        "html_class": "plp-product",
+        "css_selector": "a.plp-product",
+        "filter": null
+      }
+    ],
+    "pdf": {
+      "html_tag": null,
+      "html_class": null,
+      "css_selector": "div.tech-specs__content > div > div > ul > li:nth-child(2) > a",
+      "test": "#details > section > div > div.tech-specs__navigation > div > div.tech-specs__tabs.tech-specs__tabs--is-scrollable > div > div > div.tech-specs__tab.swiper-slide.swiper-slide-next > button",
+      "filter": [
+        {
+            "condition_string" : "productinformation",
+            "include_condition" : false
+        }
+      ]
+    },
+    "meta": {
+      "manual_name": "div.tech-specs__content > div > div > ul > li:nth-child(2) > a span.tech-specs-documents__item-meta-title",
+      "product_name": "div.product-landing__model-id"
+    }
+  }

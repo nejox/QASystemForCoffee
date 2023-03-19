@@ -1,0 +1,2982 @@
+[
+  {
+    "text": "The machine is designed and intended for private domestic use. It should only be used for coffee preparation and to heat water. Use for any other purpose will be deemed improper. JURA Elektroapparate AG cannot accept any responsibility for the consequences of improper use.",
+    "question": "For what should I use my machine?",
+    "id": 1584,
+    "answer": [
+      {
+        "start": 81,
+        "end": 126,
+        "text": "used for coffee preparation and to heat water",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1458,
+    "created_at": "2022-12-22T21:12:26.854125Z",
+    "updated_at": "2022-12-22T21:12:26.854125Z",
+    "lead_time": 13.717
+  },
+  {
+    "text": "The machine is designed and intended for private domestic use. It should only be used for coffee preparation and to heat water. Use for any other purpose will be deemed improper. JURA Elektroapparate AG cannot accept any responsibility for the consequences of improper use.",
+    "question": "Does the manufacturer take responsibility for damages?",
+    "id": 1585,
+    "answer": [
+      {
+        "start": 203,
+        "end": 272,
+        "text": "cannot accept any responsibility for the consequences of improper use",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1459,
+    "created_at": "2022-12-22T21:12:49.749526Z",
+    "updated_at": "2022-12-22T21:12:49.749526Z",
+    "lead_time": 22.526
+  },
+  {
+    "text": "The machine is designed and intended for private domestic use. It should only be used for coffee preparation and to heat water. Use for any other purpose will be deemed improper. JURA Elektroapparate AG cannot accept any responsibility for the consequences of improper use.",
+    "question": "Is the machine intended for public use?",
+    "id": 1586,
+    "answer": [
+      {
+        "start": 28,
+        "end": 61,
+        "text": "intended for private domestic use",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1460,
+    "created_at": "2022-12-22T21:13:02.396045Z",
+    "updated_at": "2022-12-22T21:13:02.396045Z",
+    "lead_time": 12.286
+  },
+  {
+    "text": "To avoid danger of potentially fatal electric shock: - Never use a machine which is damaged or has a defective mains cable. - In the event of signs of damage, for example if  there is a smell of burning, unplug the machine  immediately from the power supply and contact JURA service",
+    "question": "When should I not use the machine?",
+    "id": 1587,
+    "answer": [
+      {
+        "start": 55,
+        "end": 122,
+        "text": "Never use a machine which is damaged or has a defective mains cable",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1461,
+    "created_at": "2022-12-22T21:13:18.287918Z",
+    "updated_at": "2022-12-22T21:13:18.287918Z",
+    "lead_time": 15.532
+  },
+  {
+    "text": "To avoid danger of potentially fatal electric shock: - Never use a machine which is damaged or has a defective mains cable. - In the event of signs of damage, for example if  there is a smell of burning, unplug the machine  immediately from the power supply and contact JURA service",
+    "question": "What should I do if there is a burnt smell?",
+    "id": 1588,
+    "answer": [
+      {
+        "start": 204,
+        "end": 250,
+        "text": "unplug the machine immediately from the power",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1462,
+    "created_at": "2022-12-22T21:13:31.614534Z",
+    "updated_at": "2022-12-22T21:13:31.614534Z",
+    "lead_time": 12.961
+  },
+  {
+    "text": " Do not put the D4 or any individual parts in the dishwasher. - Do not use alkaline cleaning agents; only use a soft cloth and mild cleaning agents. - Before cleaning, switch the D4 off with the On/Off button Q. Always wipe the D4 with a damp cloth rather than a wet one, and protect it from prolonged exposure to water splash",
+    "question": "Can I put parts of the machine in the dishwasher?",
+    "id": 1589,
+    "answer": [
+      {
+        "start": 1,
+        "end": 61,
+        "text": "Do not put the D4 or any individual parts in the dishwasher.",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1463,
+    "created_at": "2022-12-22T21:14:07.869817Z",
+    "updated_at": "2022-12-22T21:14:07.869817Z",
+    "lead_time": 35.904
+  },
+  {
+    "text": " Do not put the D4 or any individual parts in the dishwasher. - Do not use alkaline cleaning agents; only use a soft cloth and mild cleaning agents. - Before cleaning, switch the D4 off with the On/Off button Q. Always wipe the D4 with a damp cloth rather than a wet one, and protect it from prolonged exposure to water splash",
+    "question": "What cleaning detergent can I use to clean the machine?  ",
+    "id": 1590,
+    "answer": [
+      {
+        "start": 106,
+        "end": 147,
+        "text": "use a soft cloth and mild cleaning agents",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1464,
+    "created_at": "2022-12-22T21:14:19.945819Z",
+    "updated_at": "2022-12-22T21:14:19.945819Z",
+    "lead_time": 11.715
+  },
+  {
+    "text": " Do not put the D4 or any individual parts in the dishwasher. - Do not use alkaline cleaning agents; only use a soft cloth and mild cleaning agents. - Before cleaning, switch the D4 off with the On/Off button Q. Always wipe the D4 with a damp cloth rather than a wet one, and protect it from prolonged exposure to water splash",
+    "question": "What do I have to do when cleaning the machine?",
+    "id": 1591,
+    "answer": [
+      {
+        "start": 168,
+        "end": 185,
+        "text": "switch the D4 off",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1465,
+    "created_at": "2022-12-22T21:14:32.983434Z",
+    "updated_at": "2022-12-22T21:14:32.983434Z",
+    "lead_time": 12.636
+  },
+  {
+    "text": "Coffee beans which have been treated with additives (e.g. sugar),  ground coffee or freeze-dried coffee will damage the grinder. -  Only use roasted, untreated coffee beans to fill the bean container",
+    "question": "What coffee beans should I use?",
+    "id": 1592,
+    "answer": [
+      {
+        "start": 132,
+        "end": 172,
+        "text": "Only use roasted, untreated coffee beans",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1466,
+    "created_at": "2022-12-22T21:14:43.701024Z",
+    "updated_at": "2022-12-22T21:14:43.702024Z",
+    "lead_time": 10.361
+  },
+  {
+    "text": "When you use the machine for the first time, you must set the water hardness. If you do not know the hardness of your water, you can  find this out first. Use the Aquadur® test strips supplied with the machine.",
+    "question": "When do I set the water hardness?",
+    "id": 1593,
+    "answer": [
+      {
+        "start": 0,
+        "end": 43,
+        "text": "When you use the machine for the first time",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1467,
+    "created_at": "2022-12-22T21:14:55.082822Z",
+    "updated_at": "2022-12-22T21:14:55.082822Z",
+    "lead_time": 11.033
+  },
+  {
+    "text": "You can interrupt rinsing of the filter at any time. To do this, turn the switch clockwise. Turn the switch anticlockwise to continue rinsing the filter.",
+    "question": "Can I interrupt the rinsing of the filter?",
+    "id": 1594,
+    "answer": [
+      {
+        "start": 0,
+        "end": 51,
+        "text": "You can interrupt rinsing of the filter at any time",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1468,
+    "created_at": "2022-12-22T21:15:01.682502Z",
+    "updated_at": "2022-12-22T21:15:01.682502Z",
+    "lead_time": 6.234
+  },
+  {
+    "text": "U Before and during the grinding operation you can select the coffee strength for the speciality coffees espresso and coffee: ‘mild’, ‘normal’ , ‘strong’ ",
+    "question": "When can I set the coffee strength?",
+    "id": 1595,
+    "answer": [
+      {
+        "start": 2,
+        "end": 42,
+        "text": "Before and during the grinding operation",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1469,
+    "created_at": "2022-12-22T21:15:56.906778Z",
+    "updated_at": "2022-12-22T21:15:56.906778Z",
+    "lead_time": 54.857
+  },
+  {
+    "text": "When you prepare two speciality coffees at once, the amount of water selected for the single product is used for each cup.",
+    "question": "Do I have to select the amount of water separately for two coffees?",
+    "id": 1596,
+    "answer": [
+      {
+        "start": 49,
+        "end": 121,
+        "text": "the amount of water selected for the single product is used for each cup",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1470,
+    "created_at": "2022-12-22T21:17:07.504564Z",
+    "updated_at": "2022-12-22T21:17:07.504564Z",
+    "lead_time": 70.235
+  },
+  {
+    "text": "Daily maintenance of the machine and hygiene when handling coffee and water are key to a perfect coffee result in the cup every time. You should therefore change the water daily.",
+    "question": "How often should I change the water in the machine?",
+    "id": 1597,
+    "answer": [
+      {
+        "start": 134,
+        "end": 177,
+        "text": "You should therefore change the water daily",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1471,
+    "created_at": "2022-12-22T21:17:40.457831Z",
+    "updated_at": "2022-12-22T21:17:40.457831Z",
+    "lead_time": 32.586
+  },
+  {
+    "text": "Daily maintenance of the machine and hygiene when handling coffee and water are key to a perfect coffee result in the cup every time. You should therefore change the water daily.",
+    "question": "What is the key for perfect coffee?",
+    "id": 1598,
+    "answer": [
+      {
+        "start": 0,
+        "end": 44,
+        "text": "Daily maintenance of the machine and hygiene",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1472,
+    "created_at": "2022-12-22T21:17:52.315437Z",
+    "updated_at": "2022-12-22T21:17:52.315437Z",
+    "lead_time": 11.511
+  },
+  {
+    "text": "Milk, sparkling mineral water or other liquids can damage the water tank or the machine.",
+    "question": "Can I use milk for the tank?",
+    "id": 1599,
+    "answer": [
+      {
+        "start": 0,
+        "end": 72,
+        "text": "Milk, sparkling mineral water or other liquids can damage the water tank",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1473,
+    "created_at": "2022-12-22T21:18:20.189672Z",
+    "updated_at": "2022-12-22T21:18:20.189672Z",
+    "lead_time": 27.5
+  },
+  {
+    "text": "To ensure that you get many years of reliable service out of your D4 and to guarantee the optimum coffee quality, the machine requires daily maintenance",
+    "question": "How do I get optimal coffee quality?",
+    "id": 1600,
+    "answer": [
+      {
+        "start": 135,
+        "end": 152,
+        "text": "daily maintenance",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1474,
+    "created_at": "2022-12-22T21:20:01.177874Z",
+    "updated_at": "2022-12-22T21:20:01.177874Z",
+    "lead_time": 100.627
+  },
+  {
+    "text": "By instructing your D4 to automatically switch itself off, you can cut down your energy consumption. If this function is activated, your D4 switches off automatically after the preset time following the last action on the machine.",
+    "question": "How can I save energy with the machine?",
+    "id": 1601,
+    "answer": [
+      {
+        "start": 0,
+        "end": 57,
+        "text": "By instructing your D4 to automatically switch itself off",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1475,
+    "created_at": "2022-12-22T21:20:18.928453Z",
+    "updated_at": "2022-12-22T21:20:18.928453Z",
+    "lead_time": 17.345
+  },
+  {
+    "text": "By instructing your D4 to automatically switch itself off, you can cut down your energy consumption. If this function is activated, your D4 switches off automatically after the preset time following the last action on the machine.",
+    "question": "What happens when I instructed self switch off?",
+    "id": 1602,
+    "answer": [
+      {
+        "start": 137,
+        "end": 188,
+        "text": "D4 switches off automatically after the preset time",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1476,
+    "created_at": "2022-12-22T21:21:34.987482Z",
+    "updated_at": "2022-12-22T21:21:34.987482Z",
+    "lead_time": 75.672
+  },
+  {
+    "text": "The harder the water is, the more frequently the D4 needs to be descaled. It is therefore important to set the water hardness accuratelly.",
+    "question": "What happens when the water is too hard?",
+    "id": 1603,
+    "answer": [
+      {
+        "start": 29,
+        "end": 72,
+        "text": "more frequently the D4 needs to be descaled",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1477,
+    "created_at": "2022-12-22T21:22:03.155486Z",
+    "updated_at": "2022-12-22T21:22:03.155486Z",
+    "lead_time": 27.757
+  },
+  {
+    "text": "Once the filter cartridge stops working (depending on the water hardness setting), the D4 will prompt you to change the filter.",
+    "question": "When do I need to change the filter?",
+    "id": 1604,
+    "answer": [
+      {
+        "start": 0,
+        "end": 39,
+        "text": "Once the filter cartridge stops working",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1478,
+    "created_at": "2022-12-22T21:22:15.121548Z",
+    "updated_at": "2022-12-22T21:22:15.121548Z",
+    "lead_time": 11.478
+  },
+  {
+    "text": "After 180 preparations or 80 switch-on rinses, the D4 will prompt you to clean it",
+    "question": "Will I get notified when I need to clean the machine?",
+    "id": 1605,
+    "answer": [
+      {
+        "start": 47,
+        "end": 81,
+        "text": "the D4 will prompt you to clean it",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1479,
+    "created_at": "2022-12-22T21:22:23.238548Z",
+    "updated_at": "2022-12-22T21:22:23.238548Z",
+    "lead_time": 7.719
+  },
+  {
+    "text": "When setting up your GIGA, please note the following: - Place the GIGA on a horizontal surface that is not sensitive to water. - Choose a spot for your GIGA which protects the machine against overheating. Ensure that the ventilation slats are not  covered.",
+    "question": "Where should I place the machine?",
+    "id": 1606,
+    "answer": [
+      {
+        "start": 71,
+        "end": 125,
+        "text": "on a horizontal surface that is not sensitive to water",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1480,
+    "created_at": "2022-12-22T21:23:00.719583Z",
+    "updated_at": "2022-12-22T21:23:00.719583Z",
+    "lead_time": 37.049
+  },
+  {
+    "text": "You can establish a wireless connection between the GIGA and the optionally available Cool Control milk cooler. To do this, touch ‘Connect’ and follow the instructions on the display.",
+    "question": "How can I connect wirelessly to the coffee machine?",
+    "id": 1607,
+    "answer": [
+      {
+        "start": 124,
+        "end": 182,
+        "text": "touch ‘Connect’ and follow the instructions on the display",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1481,
+    "created_at": "2022-12-22T21:23:12.268581Z",
+    "updated_at": "2022-12-22T21:23:12.268581Z",
+    "lead_time": 11.117
+  },
+  {
+    "text": "The JURA Cockpit allows you to manage your GIGA. Touch the time area at the top to open the JURA Cockpit.",
+    "question": "How do I open the machine cockpit?",
+    "id": 1608,
+    "answer": [
+      {
+        "start": 49,
+        "end": 104,
+        "text": "Touch the time area at the top to open the JURA Cockpit",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1482,
+    "created_at": "2022-12-22T21:23:38.536580Z",
+    "updated_at": "2022-12-22T21:23:38.536580Z",
+    "lead_time": 25.873
+  },
+  {
+    "text": "Your GIGA creates fine, creamy, feather-light milk foam with a perfect consistency. The most important requirement for frothing milk is a milk temperature of 4–8 °C. We would therefore recommend using a milk cooler or a milk container.",
+    "question": "What is the required temperature for milk?",
+    "id": 1609,
+    "answer": [
+      {
+        "start": 138,
+        "end": 164,
+        "text": "milk temperature of 4–8 °C",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1483,
+    "created_at": "2022-12-22T21:23:54.622100Z",
+    "updated_at": "2022-12-22T21:23:54.622100Z",
+    "lead_time": 15.68
+  },
+  {
+    "text": "Basic information about maintenance: - You can manage the maintenance of your GIGA in the ‘Maintenance’ area of the Cockpit. - If a maintenance programme needs to be initiated, the time area on the start screen appears with a red background. Touch the time area to open the JURA Cockpit. Here, maintenance programmes that need to be carried out are shown in the form of messages with red backgrounds. Touch a message to go straight to the corresponding maintenance programme. - Carry out each maintenance programme when you are prompted to do so.",
+    "question": "How do I access the Maintenance area of the GIGA Cockpit?",
+    "id": 1610,
+    "answer": [
+      {
+        "start": 242,
+        "end": 286,
+        "text": "Touch the time area to open the JURA Cockpit",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1484,
+    "created_at": "2022-12-22T21:25:01.621699Z",
+    "updated_at": "2022-12-22T21:25:01.622699Z",
+    "lead_time": 66.619
+  },
+  {
+    "text": "Basic information about maintenance: - You can manage the maintenance of your GIGA in the ‘Maintenance’ area of the Cockpit. - If a maintenance programme needs to be initiated, the time area on the start screen appears with a red background. Touch the time area to open the JURA Cockpit. Here, maintenance programmes that need to be carried out are shown in the form of messages with red backgrounds. Touch a message to go straight to the corresponding maintenance programme. - Carry out each maintenance programme when you are prompted to do so.",
+    "question": "How do I know when a maintenance program needs to be initiated on my GIGA coffee machine?",
+    "id": 1611,
+    "answer": [
+      {
+        "start": 177,
+        "end": 240,
+        "text": "the time area on the start screen appears with a red background",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1485,
+    "created_at": "2022-12-22T21:26:39.973962Z",
+    "updated_at": "2022-12-22T21:26:39.973962Z",
+    "lead_time": 97.989
+  },
+  {
+    "text": "Basic information about maintenance: - You can manage the maintenance of your GIGA in the ‘Maintenance’ area of the Cockpit. - If a maintenance programme needs to be initiated, the time area on the start screen appears with a red background. Touch the time area to open the JURA Cockpit. Here, maintenance programmes that need to be carried out are shown in the form of messages with red backgrounds. Touch a message to go straight to the corresponding maintenance programme. - Carry out each maintenance programme when you are prompted to do so.",
+    "question": "How do I access the JURA Cockpit to view and initiate maintenance programs?",
+    "id": 1612,
+    "answer": [
+      {
+        "start": 242,
+        "end": 286,
+        "text": "Touch the time area to open the JURA Cockpit",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1486,
+    "created_at": "2022-12-22T21:26:54.602274Z",
+    "updated_at": "2022-12-22T21:26:54.602274Z",
+    "lead_time": 14.273
+  },
+  {
+    "text": "Basic information about maintenance: - You can manage the maintenance of your GIGA in the ‘Maintenance’ area of the Cockpit. - If a maintenance programme needs to be initiated, the time area on the start screen appears with a red background. Touch the time area to open the JURA Cockpit. Here, maintenance programmes that need to be carried out are shown in the form of messages with red backgrounds. Touch a message to go straight to the corresponding maintenance programme. - Carry out each maintenance programme when you are prompted to do so.",
+    "question": "When should I perform each maintenance program as prompted on my GIGA coffee machine?",
+    "id": 1613,
+    "answer": [
+      {
+        "start": 515,
+        "end": 545,
+        "text": "when you are prompted to do so",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1487,
+    "created_at": "2022-12-22T21:28:02.315365Z",
+    "updated_at": "2022-12-22T21:28:02.315365Z",
+    "lead_time": 67.346
+  },
+  {
+    "text": "8 minutes after milk preparation, the milk system is automatically rinsed. Therefore always place a receptacle under the dual spout after preparing milk. To ensure that the milk system in the dual spout always works properly, you must clean it daily when you have been preparing milk. If the wrong cleaning agent is used, the machine could be damaged and/or traces could be left behind in the water. Use only original JURA maintenance products. JURA milk system cleaner is available from specialised dealers. Use the container supplied for milk system cleaning.",
+    "question": "How often should I clean the milk system in the dual spout of my coffee machine?",
+    "id": 1614,
+    "answer": [
+      {
+        "start": 235,
+        "end": 283,
+        "text": "clean it daily when you have been preparing milk",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1488,
+    "created_at": "2022-12-22T21:28:21.358261Z",
+    "updated_at": "2022-12-22T21:28:21.358261Z",
+    "lead_time": 18.687
+  },
+  {
+    "text": "8 minutes after milk preparation, the milk system is automatically rinsed. Therefore always place a receptacle under the dual spout after preparing milk. To ensure that the milk system in the dual spout always works properly, you must clean it daily when you have been preparing milk. If the wrong cleaning agent is used, the machine could be damaged and/or traces could be left behind in the water. Use only original JURA maintenance products. JURA milk system cleaner is available from specialised dealers. Use the container supplied for milk system cleaning.",
+    "question": "What should I do after preparing milk on my coffee machine to ensure the milk system in the dual spout is properly rinsed?",
+    "id": 1615,
+    "answer": [
+      {
+        "start": 235,
+        "end": 243,
+        "text": "clean it",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1489,
+    "created_at": "2022-12-22T21:29:35.495745Z",
+    "updated_at": "2022-12-22T21:29:35.495745Z",
+    "lead_time": 73.742
+  },
+  {
+    "text": "8 minutes after milk preparation, the milk system is automatically rinsed. Therefore always place a receptacle under the dual spout after preparing milk. To ensure that the milk system in the dual spout always works properly, you must clean it daily when you have been preparing milk. If the wrong cleaning agent is used, the machine could be damaged and/or traces could be left behind in the water. Use only original JURA maintenance products. JURA milk system cleaner is available from specialised dealers. Use the container supplied for milk system cleaning.",
+    "question": "Can I use any cleaning agent to clean the milk system in my coffee machine, or do I need to use specific products?",
+    "id": 1616,
+    "answer": [
+      {
+        "start": 400,
+        "end": 443,
+        "text": "Use only original JURA maintenance products",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1490,
+    "created_at": "2022-12-22T21:29:43.024733Z",
+    "updated_at": "2022-12-22T21:29:43.024733Z",
+    "lead_time": 7.15
+  },
+  {
+    "text": "8 minutes after milk preparation, the milk system is automatically rinsed. Therefore always place a receptacle under the dual spout after preparing milk. To ensure that the milk system in the dual spout always works properly, you must clean it daily when you have been preparing milk. If the wrong cleaning agent is used, the machine could be damaged and/or traces could be left behind in the water. Use only original JURA maintenance products. JURA milk system cleaner is available from specialised dealers. Use the container supplied for milk system cleaning.",
+    "question": "Is there a specific container I should use for cleaning the milk system in my coffee machine?",
+    "id": 1617,
+    "answer": [
+      {
+        "start": 513,
+        "end": 560,
+        "text": "the container supplied for milk system cleaning",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1491,
+    "created_at": "2022-12-22T21:30:26.516251Z",
+    "updated_at": "2022-12-22T21:30:26.516251Z",
+    "lead_time": 43.118
+  },
+  {
+    "text": "The machine is designed and intended for private  domestic use. It should only be used for coffee  preparation and to heat milk and water. Use for any other purpose will be deemed improper. JURA  Elektroapparate AG cannot accept any responsibility for the consequences of improper use. Before using the machine read these instructions for use thoroughly and completely and comply with the instructions they contain. A warranty service is not applicable for damage or defects caused by non-compliance with the instructions for use. Keep these instructions for use close to the machine and pass them on to the next user.",
+    "question": "What is the intended use of the coffee machine?",
+    "id": 1618,
+    "answer": [
+      {
+        "start": 82,
+        "end": 138,
+        "text": "used for coffee preparation and to heat milk and water.",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1492,
+    "created_at": "2022-12-22T21:31:44.239741Z",
+    "updated_at": "2022-12-22T21:31:44.239741Z",
+    "lead_time": 77.343
+  },
+  {
+    "text": "The machine is designed and intended for private  domestic use. It should only be used for coffee  preparation and to heat milk and water. Use for any other purpose will be deemed improper. JURA  Elektroapparate AG cannot accept any responsibility for the consequences of improper use. Before using the machine read these instructions for use thoroughly and completely and comply with the instructions they contain. A warranty service is not applicable for damage or defects caused by non-compliance with the instructions for use. Keep these instructions for use close to the machine and pass them on to the next user.",
+    "question": "Is the coffee machine suitable for commercial use?",
+    "id": 1619,
+    "answer": [
+      {
+        "start": 28,
+        "end": 62,
+        "text": "intended for private domestic use",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1493,
+    "created_at": "2022-12-22T21:31:52.095075Z",
+    "updated_at": "2022-12-22T21:31:52.095075Z",
+    "lead_time": 7.509
+  },
+  {
+    "text": "The machine is designed and intended for private  domestic use. It should only be used for coffee  preparation and to heat milk and water. Use for any other purpose will be deemed improper. JURA  Elektroapparate AG cannot accept any responsibility for the consequences of improper use. Before using the machine read these instructions for use thoroughly and completely and comply with the instructions they contain. A warranty service is not applicable for damage or defects caused by non-compliance with the instructions for use. Keep these instructions for use close to the machine and pass them on to the next user.",
+    "question": "What happens if I use the coffee machine improperly?",
+    "id": 1621,
+    "answer": [
+      {
+        "start": 190,
+        "end": 247,
+        "text": "JURA Elektroapparate AG cannot accept any responsibility",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1495,
+    "created_at": "2022-12-22T21:36:23.921158Z",
+    "updated_at": "2022-12-22T21:36:23.921158Z",
+    "lead_time": 29.49
+  },
+  {
+    "text": "Visit us on the Internet. You can download short operating instructions for your machine from the JURA website (jura.com). You will also find interesting and up-to-date information on your S8/S80 and on every aspect of coffee. If you need assistance with using your machine, you can find this at jura.com/service.",
+    "question": "Where can I find information about my machine?",
+    "id": 1622,
+    "answer": [
+      {
+        "start": 98,
+        "end": 122,
+        "text": "JURA website (jura.com).",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1496,
+    "created_at": "2022-12-22T21:37:20.457163Z",
+    "updated_at": "2022-12-22T21:37:20.457163Z",
+    "lead_time": 56.166
+  },
+  {
+    "text": "Visit us on the Internet. You can download short operating instructions for your machine from the JURA website (jura.com). You will also find interesting and up-to-date information on your S8/S80 and on every aspect of coffee. If you need assistance with using your machine, you can find this at jura.com/service.",
+    "question": "Where can I get assistance with usage of the machine?",
+    "id": 1623,
+    "answer": [
+      {
+        "start": 296,
+        "end": 312,
+        "text": "jura.com/service",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1497,
+    "created_at": "2022-12-22T21:37:54.686157Z",
+    "updated_at": "2022-12-22T21:37:54.686157Z",
+    "lead_time": 33.864
+  },
+  {
+    "text": "Your S8/S80 features a touchscreen display. There are two ways of operating the touch display: - Touch: Touch the display with your finger, for example to start coffee preparation or undertake various settings in programming mode. - Slide:  Move your finger across the display from left to right or from top to bottom (or vice versa). For example, you can select one of the speciality coffees in the product selector view or switch between programme items in programming mode.",
+    "question": "How do I operate the touchscreen display on my S8/S80 coffee machine?",
+    "id": 1624,
+    "answer": [
+      {
+        "start": 97,
+        "end": 334,
+        "text": "Touch: Touch the display with your finger, for example to start coffee preparation or undertake various settings in programming mode. - Slide: Move your finger across the display from left to right or from top to bottom (or vice versa).",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1498,
+    "created_at": "2022-12-22T21:38:36.700471Z",
+    "updated_at": "2022-12-22T21:38:36.700471Z",
+    "lead_time": 41.637
+  },
+  {
+    "text": "Your S8/S80 features a touchscreen display. There are two ways of operating the touch display: - Touch: Touch the display with your finger, for example to start coffee preparation or undertake various settings in programming mode. - Slide:  Move your finger across the display from left to right or from top to bottom (or vice versa). For example, you can select one of the speciality coffees in the product selector view or switch between programme items in programming mode.",
+    "question": "What can I do with the touch function on the touchscreen display of my S8/S80 coffee machine?",
+    "id": 1625,
+    "answer": [
+      {
+        "start": 152,
+        "end": 179,
+        "text": "to start coffee preparation",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1499,
+    "created_at": "2022-12-22T21:39:02.091469Z",
+    "updated_at": "2022-12-22T21:39:02.091469Z",
+    "lead_time": 25.022
+  },
+  {
+    "text": "Your S8/S80 features a touchscreen display. There are two ways of operating the touch display: - Touch: Touch the display with your finger, for example to start coffee preparation or undertake various settings in programming mode. - Slide:  Move your finger across the display from left to right or from top to bottom (or vice versa). For example, you can select one of the speciality coffees in the product selector view or switch between programme items in programming mode.",
+    "question": "How do I use the slide function on the touchscreen display of my S8/S80 coffee machine?",
+    "id": 1626,
+    "answer": [
+      {
+        "start": 241,
+        "end": 317,
+        "text": "Move your finger across the display from left to right or from top to bottom",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1500,
+    "created_at": "2022-12-22T21:39:11.587480Z",
+    "updated_at": "2022-12-22T21:39:11.587480Z",
+    "lead_time": 9.13
+  },
+  {
+    "text": "You have the option of connecting your S8/S80 wirelessly to a compatible accessory (e.g. the Cool Control Wireless milk cooler). To do this, the receiver of the Cool Control or the JURA Smart Connect must be plugged into the service socket. A frequency band of 2.4 GHz is used for this wireless connection. In this case, the maximum transmission power is below 1 mW.",
+    "question": "What is the maximum transmission power of the wireless connection between my coffee machine and a compatible accessory?",
+    "id": 1627,
+    "answer": [
+      {
+        "start": 355,
+        "end": 365,
+        "text": "below 1 mW",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1501,
+    "created_at": "2022-12-22T21:39:32.129507Z",
+    "updated_at": "2022-12-22T21:39:32.129507Z",
+    "lead_time": 20.165
+  },
+  {
+    "text": "You have the option of connecting your S8/S80 wirelessly to a compatible accessory (e.g. the Cool Control Wireless milk cooler). To do this, the receiver of the Cool Control or the JURA Smart Connect must be plugged into the service socket. A frequency band of 2.4 GHz is used for this wireless connection. In this case, the maximum transmission power is below 1 mW.",
+    "question": "How do I connect my S8/S80 coffee machine wirelessly to a compatible accessory?",
+    "id": 1628,
+    "answer": [
+      {
+        "start": 145,
+        "end": 215,
+        "text": "receiver of the Cool Control or the JURA Smart Connect must be plugged",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1502,
+    "created_at": "2022-12-22T21:39:48.464503Z",
+    "updated_at": "2022-12-22T21:39:48.464503Z",
+    "lead_time": 15.965
+  },
+  {
+    "text": "You have the option of connecting your S8/S80 wirelessly to a compatible accessory (e.g. the Cool Control Wireless milk cooler). To do this, the receiver of the Cool Control or the JURA Smart Connect must be plugged into the service socket. A frequency band of 2.4 GHz is used for this wireless connection. In this case, the maximum transmission power is below 1 mW.",
+    "question": "What frequency band is used for the wireless connection between my coffee machine and a compatible accessory?",
+    "id": 1629,
+    "answer": [
+      {
+        "start": 243,
+        "end": 268,
+        "text": "frequency band of 2.4 GHz",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1503,
+    "created_at": "2022-12-22T21:39:54.977499Z",
+    "updated_at": "2022-12-22T21:39:54.977499Z",
+    "lead_time": 6.156
+  },
+  {
+    "text": "Basic information about preparing drinks: - During the grinding operation you can change the coffee strength of single products. To do this, move your finger across the display. - During preparation you can change the preset amounts (e.g. amount of water or milk foam). To do this, move your finger across the display. - You can stop preparation at any time. To do this, touch ‘Cancel’.",
+    "question": "How do I change the coffee strength of single products on my coffee machine during the grinding operation?",
+    "id": 1630,
+    "answer": [
+      {
+        "start": 141,
+        "end": 176,
+        "text": "move your finger across the display",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1504,
+    "created_at": "2022-12-22T21:40:12.132498Z",
+    "updated_at": "2022-12-22T21:40:12.132498Z",
+    "lead_time": 16.765
+  },
+  {
+    "text": "Basic information about preparing drinks: - During the grinding operation you can change the coffee strength of single products. To do this, move your finger across the display. - During preparation you can change the preset amounts (e.g. amount of water or milk foam). To do this, move your finger across the display. - You can stop preparation at any time. To do this, touch ‘Cancel’.",
+    "question": "Can I adjust the preset amounts of water or milk foam during drink preparation on my coffee machine?",
+    "id": 1631,
+    "answer": [
+      {
+        "start": 180,
+        "end": 232,
+        "text": "During preparation you can change the preset amounts",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1505,
+    "created_at": "2022-12-22T21:41:51.852721Z",
+    "updated_at": "2022-12-22T21:41:51.852721Z",
+    "lead_time": 99.351
+  },
+  {
+    "text": "Basic information about preparing drinks: - During the grinding operation you can change the coffee strength of single products. To do this, move your finger across the display. - During preparation you can change the preset amounts (e.g. amount of water or milk foam). To do this, move your finger across the display. - You can stop preparation at any time. To do this, touch ‘Cancel’.",
+    "question": "Can I stop the preparation of a drink at any time on my coffee machine?",
+    "id": 1632,
+    "answer": [
+      {
+        "start": 321,
+        "end": 357,
+        "text": "You can stop preparation at any time",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1506,
+    "created_at": "2022-12-22T21:42:03.195488Z",
+    "updated_at": "2022-12-22T21:42:03.195488Z",
+    "lead_time": 10.989
+  },
+  {
+    "text": "Basic information about preparing drinks: - During the grinding operation you can change the coffee strength of single products. To do this, move your finger across the display. - During preparation you can change the preset amounts (e.g. amount of water or milk foam). To do this, move your finger across the display. - You can stop preparation at any time. To do this, touch ‘Cancel’.",
+    "question": "How do I stop the preparation of a drink on my coffee machine?",
+    "id": 1633,
+    "answer": [
+      {
+        "start": 371,
+        "end": 386,
+        "text": "touch ‘Cancel’.",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1507,
+    "created_at": "2022-12-22T21:42:11.762479Z",
+    "updated_at": "2022-12-22T21:42:11.762479Z",
+    "lead_time": 8.202
+  },
+  {
+    "text": "Coffee tastes best served hot. A cold porcelain cup cools the beverage – and impairs the taste. We therefore recommend prewarming the cups. The full coffee aroma can develop only in prewarmed cups. You can purchase a JURA cup warmer from your specialised dealer. You can make permanent settings for all products in programming mode (see Chapter 4 ‘Permanent settings in programming mode – Adjusting the product settings’)",
+    "question": "Why is it important to serve coffee in a hot cup?",
+    "id": 1634,
+    "answer": [
+      {
+        "start": 0,
+        "end": 29,
+        "text": "Coffee tastes best served hot",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1508,
+    "created_at": "2022-12-22T21:42:51.038002Z",
+    "updated_at": "2022-12-22T21:42:51.038002Z",
+    "lead_time": 38.943
+  },
+  {
+    "text": "Coffee tastes best served hot. A cold porcelain cup cools the beverage – and impairs the taste. We therefore recommend prewarming the cups. The full coffee aroma can develop only in prewarmed cups. You can purchase a JURA cup warmer from your specialised dealer. You can make permanent settings for all products in programming mode (see Chapter 4 ‘Permanent settings in programming mode – Adjusting the product settings’)",
+    "question": "Can using a cold porcelain cup affect the taste of coffee?",
+    "id": 1635,
+    "answer": [
+      {
+        "start": 33,
+        "end": 94,
+        "text": "cold porcelain cup cools the beverage – and impairs the taste",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1509,
+    "created_at": "2022-12-22T21:43:03.460083Z",
+    "updated_at": "2022-12-22T21:43:03.461083Z",
+    "lead_time": 12.069
+  },
+  {
+    "text": "Coffee tastes best served hot. A cold porcelain cup cools the beverage – and impairs the taste. We therefore recommend prewarming the cups. The full coffee aroma can develop only in prewarmed cups. You can purchase a JURA cup warmer from your specialised dealer. You can make permanent settings for all products in programming mode (see Chapter 4 ‘Permanent settings in programming mode – Adjusting the product settings’)",
+    "question": "Can I make permanent settings for all products on my coffee machine in programming mode?",
+    "id": 1636,
+    "answer": [
+      {
+        "start": 263,
+        "end": 331,
+        "text": "You can make permanent settings for all products in programming mode",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1510,
+    "created_at": "2022-12-22T21:43:17.922086Z",
+    "updated_at": "2022-12-22T21:43:17.922086Z",
+    "lead_time": 14.068
+  },
+  {
+    "text": "Coffee tastes best served hot. A cold porcelain cup cools the beverage – and impairs the taste. We therefore recommend prewarming the cups. The full coffee aroma can develop only in prewarmed cups. You can purchase a JURA cup warmer from your specialised dealer. You can make permanent settings for all products in programming mode (see Chapter 4 ‘Permanent settings in programming mode – Adjusting the product settings’)",
+    "question": "Is it recommended to prewarm cups before serving coffee?",
+    "id": 1637,
+    "answer": [
+      {
+        "start": 96,
+        "end": 138,
+        "text": "We therefore recommend prewarming the cups",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1511,
+    "created_at": "2022-12-22T21:43:26.582083Z",
+    "updated_at": "2022-12-22T21:43:26.582083Z",
+    "lead_time": 8.3
+  },
+  {
+    "text": "You can move any of the standard products programmed in your S8/S80 to your preferred position on the start screen and make it one of your favourites. You can duplicate and personalise your favourite speciality coffees by giving them a new product name and individual settings (e.g. amount and coffee strength) (see Chapter 4 ‘Permanent settings in programming mode – Adjusting the product settings’). Please note that the descriptions provided in the following sections always refer to the default settings.",
+    "question": "Can I rearrange the standard products programmed on my coffee machine on the start screen?",
+    "id": 1638,
+    "answer": [
+      {
+        "start": 0,
+        "end": 41,
+        "text": "You can move any of the standard products",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1512,
+    "created_at": "2022-12-22T21:44:28.382645Z",
+    "updated_at": "2022-12-22T21:44:28.382645Z",
+    "lead_time": 61.4
+  },
+  {
+    "text": "You can move any of the standard products programmed in your S8/S80 to your preferred position on the start screen and make it one of your favourites. You can duplicate and personalise your favourite speciality coffees by giving them a new product name and individual settings (e.g. amount and coffee strength) (see Chapter 4 ‘Permanent settings in programming mode – Adjusting the product settings’). Please note that the descriptions provided in the following sections always refer to the default settings.",
+    "question": "Is it possible to customize and personalize my favorite speciality coffees on my S8/S80 coffee machine?",
+    "id": 1639,
+    "answer": [
+      {
+        "start": 151,
+        "end": 218,
+        "text": "You can duplicate and personalise your favourite speciality coffees",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1513,
+    "created_at": "2022-12-22T21:44:43.393684Z",
+    "updated_at": "2022-12-22T21:44:43.393684Z",
+    "lead_time": 14.646
+  },
+  {
+    "text": "In the programme item ‘Machine settings’ you can view the following information: - ‘Product counter’: Number of prepared speciality coffees, milk and hot water - ‘Maintenance counter’: Number of maintenance programmes  performed (cleaning, descaling etc.) - ‘Version’: Software version",
+    "question": "What does the \"Maintenance counter\" in the \"Machine settings\" program on my coffee machine show?",
+    "id": 1640,
+    "answer": [
+      {
+        "start": 185,
+        "end": 228,
+        "text": "Number of maintenance programmes performed",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1514,
+    "created_at": "2022-12-22T21:45:04.969727Z",
+    "updated_at": "2022-12-22T21:45:04.969727Z",
+    "lead_time": 21.227
+  },
+  {
+    "text": "In the programme item ‘Machine settings’ you can view the following information: - ‘Product counter’: Number of prepared speciality coffees, milk and hot water - ‘Maintenance counter’: Number of maintenance programmes  performed (cleaning, descaling etc.) - ‘Version’: Software version",
+    "question": "Can I find the software version of my coffee machine in the \"Machine settings\" program?",
+    "id": 1641,
+    "answer": [
+      {
+        "start": 269,
+        "end": 285,
+        "text": "Software version",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1515,
+    "created_at": "2022-12-22T21:45:17.303724Z",
+    "updated_at": "2022-12-22T21:45:17.303724Z",
+    "lead_time": 11.967
+  },
+  {
+    "text": "To make sure the cappuccino frother works properly, and in the interests of hygiene, it must be dismantled and rinsed daily if you have been preparing milk. - Remove the milk pipe and rinse it thoroughly under running water. - Carefully pull the cappuccino frother down and off. - Dismantle the cappuccino frother into its individual parts. - Rinse all the parts under running water. If there are severely dried-on milk residues, firstly immerse the individual parts in a solution of 250 ml warm water and 1 capful of JURA milk system cleaner. Then rinse the parts thoroughly. - Reassemble the cappuccino frother.",
+    "question": "What is the recommended cleaning solution to use for removing dried-on milk residues from the parts of the cappuccino frother?",
+    "id": 1642,
+    "answer": [
+      {
+        "start": 472,
+        "end": 542,
+        "text": "solution of 250 ml warm water and 1 capful of JURA milk system cleaner",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1516,
+    "created_at": "2022-12-22T21:46:41.181239Z",
+    "updated_at": "2022-12-22T21:46:41.181239Z",
+    "lead_time": 83.513
+  },
+  {
+    "text": "To make sure the cappuccino frother works properly, and in the interests of hygiene, it must be dismantled and rinsed daily if you have been preparing milk. - Remove the milk pipe and rinse it thoroughly under running water. - Carefully pull the cappuccino frother down and off. - Dismantle the cappuccino frother into its individual parts. - Rinse all the parts under running water. If there are severely dried-on milk residues, firstly immerse the individual parts in a solution of 250 ml warm water and 1 capful of JURA milk system cleaner. Then rinse the parts thoroughly. - Reassemble the cappuccino frother.",
+    "question": "How do I remove the milk pipe on my coffee machine to rinse it thoroughly?",
+    "id": 1643,
+    "answer": [
+      {
+        "start": 159,
+        "end": 179,
+        "text": "Remove the milk pipe",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1517,
+    "created_at": "2022-12-22T21:47:04.369236Z",
+    "updated_at": "2022-12-22T21:47:04.369236Z",
+    "lead_time": 22.857
+  },
+  {
+    "text": "To make sure the cappuccino frother works properly, and in the interests of hygiene, it must be dismantled and rinsed daily if you have been preparing milk. - Remove the milk pipe and rinse it thoroughly under running water. - Carefully pull the cappuccino frother down and off. - Dismantle the cappuccino frother into its individual parts. - Rinse all the parts under running water. If there are severely dried-on milk residues, firstly immerse the individual parts in a solution of 250 ml warm water and 1 capful of JURA milk system cleaner. Then rinse the parts thoroughly. - Reassemble the cappuccino frother.",
+    "question": "Why is it important to dismantle and rinse the cappuccino frother on my coffee machine daily if I have been preparing milk?",
+    "id": 1644,
+    "answer": [
+      {
+        "start": 0,
+        "end": 50,
+        "text": "To make sure the cappuccino frother works properly",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1518,
+    "created_at": "2022-12-22T21:48:01.891239Z",
+    "updated_at": "2022-12-22T21:48:01.891239Z",
+    "lead_time": 57.174
+  },
+  {
+    "text": "Your JURA no longer has to be descaled if you are using the CLARIS Smart filter cartridge. If you did not insert the filter cartridge the first time you used the machine, you can do this now as follows.",
+    "question": "Do I need to descale my machine if I am using CLARIS smart filter cartidges?",
+    "id": 1645,
+    "answer": [
+      {
+        "start": 0,
+        "end": 38,
+        "text": "Your JURA no longer has to be descaled",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1519,
+    "created_at": "2022-12-22T21:48:22.388592Z",
+    "updated_at": "2022-12-22T21:48:22.388592Z",
+    "lead_time": 20.125
+  },
+  {
+    "text": "Please dispose of old machines in an environmentally neutral way. Old machines contain valuable, recyclable materials which should be recycled. Please therefore dispose of old machines via suitable collection systems.",
+    "question": "How should I dispose of my old coffee machine?",
+    "id": 1646,
+    "answer": [
+      {
+        "start": 31,
+        "end": 64,
+        "text": "in an environmentally neutral way",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1520,
+    "created_at": "2022-12-22T21:48:31.042582Z",
+    "updated_at": "2022-12-22T21:48:31.042582Z",
+    "lead_time": 8.33
+  },
+  {
+    "text": "Please dispose of old machines in an environmentally neutral way. Old machines contain valuable, recyclable materials which should be recycled. Please therefore dispose of old machines via suitable collection systems.",
+    "question": "Where should I dispose my old coffee machine?",
+    "id": 1647,
+    "answer": [
+      {
+        "start": 185,
+        "end": 216,
+        "text": "via suitable collection systems",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1521,
+    "created_at": "2022-12-22T21:48:40.103592Z",
+    "updated_at": "2022-12-22T21:48:40.103592Z",
+    "lead_time": 8.686
+  },
+  {
+    "text": "Children must be able to recognise and understand the potential dangers arising from incorrect use: - Keep children under the age of 8 away from the machine, or supervise them constantly. - Children aged 8 and over may only operate the machine without supervision if they have been instructed in how to use it safely. - Children may not clean or service the machine unless supervised by a responsible person. - Do not allow children to play with the machine.",
+    "question": "Can children clean or service the coffee machine without supervision?",
+    "id": 1648,
+    "answer": [
+      {
+        "start": 190,
+        "end": 316,
+        "text": "Children aged 8 and over may only operate the machine without supervision if they have been instructed in how to use it safely",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1522,
+    "created_at": "2022-12-22T21:49:47.380751Z",
+    "updated_at": "2022-12-22T21:49:47.380751Z",
+    "lead_time": 66.924
+  },
+  {
+    "text": "Children must be able to recognise and understand the potential dangers arising from incorrect use: - Keep children under the age of 8 away from the machine, or supervise them constantly. - Children aged 8 and over may only operate the machine without supervision if they have been instructed in how to use it safely. - Children may not clean or service the machine unless supervised by a responsible person. - Do not allow children to play with the machine.",
+    "question": "What precautions should I take to ensure children are safe around my coffee machine?",
+    "id": 1649,
+    "answer": [
+      {
+        "start": 102,
+        "end": 186,
+        "text": "Keep children under the age of 8 away from the machine, or supervise them constantly",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1523,
+    "created_at": "2022-12-22T21:50:18.891154Z",
+    "updated_at": "2022-12-22T21:50:18.891154Z",
+    "lead_time": 31.171
+  },
+  {
+    "text": "Children must be able to recognise and understand the potential dangers arising from incorrect use: - Keep children under the age of 8 away from the machine, or supervise them constantly. - Children aged 8 and over may only operate the machine without supervision if they have been instructed in how to use it safely. - Children may not clean or service the machine unless supervised by a responsible person. - Do not allow children to play with the machine.",
+    "question": "At what age may children operate the machine without supervision?",
+    "id": 1650,
+    "answer": [
+      {
+        "start": 190,
+        "end": 205,
+        "text": "Children aged 8",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1524,
+    "created_at": "2022-12-22T21:51:55.514008Z",
+    "updated_at": "2022-12-22T21:51:55.514008Z",
+    "lead_time": 96.239
+  },
+  {
+    "text": "When setting up your ENA, please note the following: - Choose a spot for your ENA which protects the machine against overheating. Ensure that the ventilation slots are not covered. - Place the ENA on a horizontal surface that is not sensitive to water",
+    "question": "Whats a good spot for my coffee machine?",
+    "id": 1651,
+    "answer": [
+      {
+        "start": 62,
+        "end": 128,
+        "text": "a spot for your ENA which protects the machine against overheating",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1525,
+    "created_at": "2022-12-22T21:53:01.268277Z",
+    "updated_at": "2022-12-22T21:53:01.268277Z",
+    "lead_time": 65.357
+  },
+  {
+    "text": "When setting up your ENA, please note the following: - Choose a spot for your ENA which protects the machine against overheating. Ensure that the ventilation slots are not covered. - Place the ENA on a horizontal surface that is not sensitive to water",
+    "question": "What happens if the ventilation slots are not covered?",
+    "id": 1652,
+    "answer": [
+      {
+        "start": 117,
+        "end": 128,
+        "text": "overheating",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1526,
+    "created_at": "2022-12-22T21:53:14.609622Z",
+    "updated_at": "2022-12-22T21:53:14.609622Z",
+    "lead_time": 12.85
+  },
+  {
+    "text": "If you press your preselection briefly, the next product will be prepared according to your preselection. If you press and hold your preselection (for 2 seconds), the preselection will be active until you switch off your ENA.",
+    "question": "What happens if I press and hold the preselection?",
+    "id": 1653,
+    "answer": [
+      {
+        "start": 163,
+        "end": 225,
+        "text": "the preselection will be active until you switch off your ENA.",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1527,
+    "created_at": "2022-12-22T21:53:39.556632Z",
+    "updated_at": "2022-12-22T21:53:39.556632Z",
+    "lead_time": 24.574
+  },
+  {
+    "text": "If you press your preselection briefly, the next product will be prepared according to your preselection. If you press and hold your preselection (for 2 seconds), the preselection will be active until you switch off your ENA.",
+    "question": "How long do I need to hold the preselection on my ENA coffee machine to activate it until I switch it off?",
+    "id": 1654,
+    "answer": [
+      {
+        "start": 147,
+        "end": 160,
+        "text": "for 2 seconds",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1528,
+    "created_at": "2022-12-22T21:53:46.874174Z",
+    "updated_at": "2022-12-22T21:53:46.874174Z",
+    "lead_time": 6.961
+  },
+  {
+    "text": "Doppio’ is Italian for ‘double’. When you select Espresso doppio, two espressi are prepared one after the other. The result is an extra full-bodied and aromatic speciality coffee.",
+    "question": "What is Espresso doppio?",
+    "id": 1655,
+    "answer": [
+      {
+        "start": 66,
+        "end": 78,
+        "text": "two espressi",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1529,
+    "created_at": "2022-12-22T21:54:03.885309Z",
+    "updated_at": "2022-12-22T21:54:03.885309Z",
+    "lead_time": 16.635
+  },
+  {
+    "text": "For the caffè Barista, the ENA blends the coffee with hot water using a special preparation method. This results in a full-bodied speciality coffee which is particularly easy to digest. You can change the amount of this additional water (see chapter 4 ‘Preparation – Adjusting the product settings’).",
+    "question": "How does the ENA coffee machine prepare the caffè Barista speciality coffee?",
+    "id": 1656,
+    "answer": [
+      {
+        "start": 27,
+        "end": 98,
+        "text": "ENA blends the coffee with hot water using a special preparation method",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1530,
+    "created_at": "2022-12-22T21:54:20.806206Z",
+    "updated_at": "2022-12-22T21:54:20.806206Z",
+    "lead_time": 16.521
+  },
+  {
+    "text": "For the caffè Barista, the ENA blends the coffee with hot water using a special preparation method. This results in a full-bodied speciality coffee which is particularly easy to digest. You can change the amount of this additional water (see chapter 4 ‘Preparation – Adjusting the product settings’).",
+    "question": "Where can I read about adjusting the product settings?",
+    "id": 1657,
+    "answer": [
+      {
+        "start": 242,
+        "end": 297,
+        "text": "chapter 4 ‘Preparation – Adjusting the product settings",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1531,
+    "created_at": "2022-12-22T21:54:59.467536Z",
+    "updated_at": "2022-12-22T21:54:59.467536Z",
+    "lead_time": 38.301
+  },
+  {
+    "text": "For the caffè Barista, the ENA blends the coffee with hot water using a special preparation method. This results in a full-bodied speciality coffee which is particularly easy to digest. You can change the amount of this additional water (see chapter 4 ‘Preparation – Adjusting the product settings’).",
+    "question": "Is the caffe Barista easy to digest?",
+    "id": 1658,
+    "answer": [
+      {
+        "start": 141,
+        "end": 184,
+        "text": "coffee which is particularly easy to digest",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1532,
+    "created_at": "2022-12-22T21:55:13.408976Z",
+    "updated_at": "2022-12-22T21:55:13.408976Z",
+    "lead_time": 13.588
+  },
+  {
+    "text": " Danger : Warning against the risk of serious or fatal injuries. The lightning bolt symbol warns against electrical dangers.",
+    "question": "What does the ligthning bolt symbol mean?",
+    "id": 1659,
+    "answer": [
+      {
+        "start": 91,
+        "end": 123,
+        "text": "warns against electrical dangers",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1533,
+    "created_at": "2022-12-22T21:55:23.280633Z",
+    "updated_at": "2022-12-22T21:55:23.280633Z",
+    "lead_time": 9.506
+  },
+  {
+    "text": "Sound signals: One beep when pressing ON/OFF: turning on the power on the activated appliance. One beep every ten seconds: the appliance is awaiting instructions from the user.  One double beep: the appliance has registered your request and will stop as soon as possible",
+    "question": "What does it mean if the machine beeps continiously?",
+    "id": 1660,
+    "answer": [
+      {
+        "start": 123,
+        "end": 175,
+        "text": "the appliance is awaiting instructions from the user",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1534,
+    "created_at": "2022-12-22T21:55:42.549392Z",
+    "updated_at": "2022-12-22T21:55:42.549392Z",
+    "lead_time": 18.862
+  },
+  {
+    "text": "Sound signals: One beep when pressing ON/OFF: turning on the power on the activated appliance. One beep every ten seconds: the appliance is awaiting instructions from the user.  One double beep: the appliance has registered your request and will stop as soon as possible",
+    "question": "What does a double beep sound mean?",
+    "id": 1661,
+    "answer": [
+      {
+        "start": 195,
+        "end": 270,
+        "text": "the appliance has registered your request and will stop as soon as possible",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1535,
+    "created_at": "2022-12-22T21:55:46.403957Z",
+    "updated_at": "2022-12-22T21:55:46.403957Z",
+    "lead_time": 3.494
+  },
+  {
+    "text": "You can choose the strength of your coffee by setting the coffee bean grinding fineness. The finer the grinding setting, the stronger and creamier the coffee should be. Set the desired fineness for grinding by turning the ‘Grinding fineness setting’ knob.Turn to the left for finer grind. Turn to the right for coarser grind.",
+    "question": "What is the effect of a finer grinding setting on the strength and creaminess of the coffee?",
+    "id": 1662,
+    "answer": [
+      {
+        "start": 121,
+        "end": 157,
+        "text": "the stronger and creamier the coffee",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1536,
+    "created_at": "2022-12-22T21:56:03.332436Z",
+    "updated_at": "2022-12-22T21:56:03.332436Z",
+    "lead_time": 16.565
+  },
+  {
+    "text": "You can choose the strength of your coffee by setting the coffee bean grinding fineness. The finer the grinding setting, the stronger and creamier the coffee should be. Set the desired fineness for grinding by turning the ‘Grinding fineness setting’ knob.Turn to the left for finer grind. Turn to the right for coarser grind.",
+    "question": "In which direction should I turn the \"Grinding fineness setting\" knob to achieve a finer grind?",
+    "id": 1663,
+    "answer": [
+      {
+        "start": 255,
+        "end": 287,
+        "text": "Turn to the left for finer grind",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1537,
+    "created_at": "2022-12-22T21:56:26.433851Z",
+    "updated_at": "2022-12-22T21:56:26.433851Z",
+    "lead_time": 22.716
+  },
+  {
+    "text": "You can choose the strength of your coffee by setting the coffee bean grinding fineness. The finer the grinding setting, the stronger and creamier the coffee should be. Set the desired fineness for grinding by turning the ‘Grinding fineness setting’ knob.Turn to the left for finer grind. Turn to the right for coarser grind.",
+    "question": "How can I change the strength of my coffee?",
+    "id": 1664,
+    "answer": [
+      {
+        "start": 43,
+        "end": 87,
+        "text": "by setting the coffee bean grinding fineness",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1538,
+    "created_at": "2022-12-22T21:56:44.797922Z",
+    "updated_at": "2022-12-22T21:56:44.798922Z",
+    "lead_time": 17.996
+  },
+  {
+    "text": "The cycle is finished when the light becomes constant. The appliance is now ready to use.",
+    "question": "When is the cycle finished?",
+    "id": 1665,
+    "answer": [
+      {
+        "start": 22,
+        "end": 53,
+        "text": "when the light becomes constant",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1539,
+    "created_at": "2022-12-22T21:56:50.839972Z",
+    "updated_at": "2022-12-22T21:56:50.839972Z",
+    "lead_time": 5.673
+  },
+  {
+    "text": "Steam froths up the milk to make a cappuccino or a caffe latte, for example, and also heats up liquids. As you need a higher temperature to produce steam than to make an espresso, the appliance runs an additional pre-heating phase for steam.",
+    "question": "What is the steam good for?",
+    "id": 1666,
+    "answer": [
+      {
+        "start": 6,
+        "end": 45,
+        "text": "froths up the milk to make a cappuccino",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1540,
+    "created_at": "2022-12-22T21:57:05.938116Z",
+    "updated_at": "2022-12-22T21:57:05.938116Z",
+    "lead_time": 14.732
+  },
+  {
+    "text": "Steam froths up the milk to make a cappuccino or a caffe latte, for example, and also heats up liquids. As you need a higher temperature to produce steam than to make an espresso, the appliance runs an additional pre-heating phase for steam.",
+    "question": "What temperature do I need for an espresso?",
+    "id": 1667,
+    "answer": [
+      {
+        "start": 118,
+        "end": 136,
+        "text": "higher temperature",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1541,
+    "created_at": "2022-12-22T21:57:13.268043Z",
+    "updated_at": "2022-12-22T21:57:13.268043Z",
+    "lead_time": 6.965
+  },
+  {
+    "text": "Rinsing out the coffee circuit: Place a container under the coffee nozzles. Press the button - Fig. 6 quickly to start a coffee circuit rinsing cycle,  which will automatically stop after around 40 ml.",
+    "question": "After what amount of ml does the rinsing cycle stop?",
+    "id": 1668,
+    "answer": [
+      {
+        "start": 177,
+        "end": 201,
+        "text": "stop after around 40 ml.",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1542,
+    "created_at": "2022-12-22T21:57:25.152022Z",
+    "updated_at": "2022-12-22T21:57:25.152022Z",
+    "lead_time": 11.552
+  },
+  {
+    "text": "Rinsing out the steam circuit: Place a container under the steam nozzle and press the button for 3 seconds to start a steam circuit rinsing cycle,  which will automatically stop after around 300 ml.",
+    "question": "How long do I need to press the button to start the rinsing cycle?",
+    "id": 1669,
+    "answer": [
+      {
+        "start": 97,
+        "end": 106,
+        "text": "3 seconds",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1543,
+    "created_at": "2022-12-22T21:57:36.198600Z",
+    "updated_at": "2022-12-22T21:57:36.198600Z",
+    "lead_time": 10.63
+  },
+  {
+    "text": "For hygienic reasons and to preserve all best coffee flavor we recommend you to clean the coffee system when the machine asks you to, about 3 times a year.",
+    "question": "Out of what reason should I clean the machine?",
+    "id": 1670,
+    "answer": [
+      {
+        "start": 4,
+        "end": 20,
+        "text": "hygienic reasons",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1544,
+    "created_at": "2022-12-22T21:57:43.505492Z",
+    "updated_at": "2022-12-22T21:57:43.505492Z",
+    "lead_time": 6.931
+  },
+  {
+    "text": "For hygienic reasons and to preserve all best coffee flavor we recommend you to clean the coffee system when the machine asks you to, about 3 times a year.",
+    "question": "How often it is recommended to clean the system?",
+    "id": 1671,
+    "answer": [
+      {
+        "start": 80,
+        "end": 154,
+        "text": "clean the coffee system when the machine asks you to, about 3 times a year",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1545,
+    "created_at": "2022-12-22T21:58:01.842505Z",
+    "updated_at": "2022-12-22T21:58:01.842505Z",
+    "lead_time": 17.971
+  },
+  {
+    "text": "When to carry out this program? When it is necessary to run a cleaning program, the appliance alerts you by flashing the CLEAN indicator light. This program can only be accessed when the appliance requests it (approximately every 300 brews of coffee or espresso). To comply with the warranty conditions, it is essential to perform the cleaning cycle when the appliance alerts you. Follow the order of operations carefully. Use only KRUPS cleaning tablets (available on our KRUPS.com store)-",
+    "question": "How is it indicated when I should clean the machine?",
+    "id": 1672,
+    "answer": [
+      {
+        "start": 84,
+        "end": 142,
+        "text": "appliance alerts you by flashing the CLEAN indicator light",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1546,
+    "created_at": "2022-12-22T21:58:17.245560Z",
+    "updated_at": "2022-12-22T21:58:17.245560Z",
+    "lead_time": 14.991
+  },
+  {
+    "text": "When to carry out this program? When it is necessary to run a cleaning program, the appliance alerts you by flashing the CLEAN indicator light. This program can only be accessed when the appliance requests it (approximately every 300 brews of coffee or espresso). To comply with the warranty conditions, it is essential to perform the cleaning cycle when the appliance alerts you. Follow the order of operations carefully. Use only KRUPS cleaning tablets (available on our KRUPS.com store)-",
+    "question": "What type of cleaning tablets should I use?",
+    "id": 1673,
+    "answer": [
+      {
+        "start": 423,
+        "end": 454,
+        "text": "Use only KRUPS cleaning tablets",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1547,
+    "created_at": "2022-12-22T21:58:32.837361Z",
+    "updated_at": "2022-12-22T21:58:32.837361Z",
+    "lead_time": 15.194
+  },
+  {
+    "text": "When to carry out this program? When it is necessary to run a cleaning program, the appliance alerts you by flashing the CLEAN indicator light. This program can only be accessed when the appliance requests it (approximately every 300 brews of coffee or espresso). To comply with the warranty conditions, it is essential to perform the cleaning cycle when the appliance alerts you. Follow the order of operations carefully. Use only KRUPS cleaning tablets (available on our KRUPS.com store)-",
+    "question": "How often is the cleaning program requested by the appliance?",
+    "id": 1674,
+    "answer": [
+      {
+        "start": 210,
+        "end": 261,
+        "text": "approximately every 300 brews of coffee or espresso",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1548,
+    "created_at": "2022-12-22T21:59:31.820148Z",
+    "updated_at": "2022-12-22T21:59:31.821149Z",
+    "lead_time": 58.561
+  },
+  {
+    "text": "Scale removal program - total duration: about 20 minutes The quantity of scale deposited depends on the hardness of the water used. The appliance will automatically warn you by the ‘CALC’ light coming on when you need to proceed with scale removal. This program is only accessible when the appliance requests it.",
+    "question": "What does the 'CALC' Symbol light mean?",
+    "id": 1675,
+    "answer": [
+      {
+        "start": 234,
+        "end": 247,
+        "text": "scale removal",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1549,
+    "created_at": "2022-12-22T21:59:48.845698Z",
+    "updated_at": "2022-12-22T21:59:48.845698Z",
+    "lead_time": 16.542
+  },
+  {
+    "text": "Scale removal program - total duration: about 20 minutes The quantity of scale deposited depends on the hardness of the water used. The appliance will automatically warn you by the ‘CALC’ light coming on when you need to proceed with scale removal. This program is only accessible when the appliance requests it.",
+    "question": "How long does it take for scale removal?",
+    "id": 1676,
+    "answer": [
+      {
+        "start": 40,
+        "end": 56,
+        "text": "about 20 minutes",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1550,
+    "created_at": "2022-12-22T21:59:55.950698Z",
+    "updated_at": "2022-12-22T21:59:55.950698Z",
+    "lead_time": 6.733
+  },
+  {
+    "text": "To switch the appliance off: You can switch off your appliance at any time. As the appliance is switching off, a double beep is emitted and all of the red lights flash, one after the other. The appliance has registered your request and will stop as soon as possible.",
+    "question": "How is it indicated that the appliance is turned off?",
+    "id": 1677,
+    "answer": [
+      {
+        "start": 113,
+        "end": 167,
+        "text": "double beep is emitted and all of the red lights flash",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1551,
+    "created_at": "2022-12-22T22:00:17.983351Z",
+    "updated_at": "2022-12-22T22:00:17.983351Z",
+    "lead_time": 21.661
+  },
+  {
+    "text": "To switch the appliance off: You can switch off your appliance at any time. As the appliance is switching off, a double beep is emitted and all of the red lights flash, one after the other. The appliance has registered your request and will stop as soon as possible.",
+    "question": "When can I switch the machine off?",
+    "id": 1678,
+    "answer": [
+      {
+        "start": 33,
+        "end": 74,
+        "text": "can switch off your appliance at any time",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1552,
+    "created_at": "2022-12-22T22:00:29.399137Z",
+    "updated_at": "2022-12-22T22:00:29.399137Z",
+    "lead_time": 11.027
+  },
+  {
+    "text": "Cappuccino: For a cappuccino in the rules of the art, the ideal proportions are as follows: 1/3 hot milk, 1/3 coffee, 1/3 milk froth.",
+    "question": "What are the best proportions for a cappucino?",
+    "id": 1679,
+    "answer": [
+      {
+        "start": 92,
+        "end": 132,
+        "text": "1/3 hot milk, 1/3 coffee, 1/3 milk froth",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1553,
+    "created_at": "2022-12-22T22:00:42.414476Z",
+    "updated_at": "2022-12-22T22:00:42.414476Z",
+    "lead_time": 12.65
+  },
+  {
+    "text": "It is recommended that you do not use oily, caramelised or flavoured coffee beans for this appliance. These kinds of beans may damage the appliance. Check that the coffee beans do not contain any foreign particles such as grit, as any damage caused by the presence of foreign particles will invalidate the guarantee. Do not put water into the coffee bean container. Remember to fit the drip tray to avoid waste water flowing onto the work surface and staining it or scalding you. Check that your water tank is clean.",
+    "question": "What type of beans can damage the appliance?",
+    "id": 1680,
+    "answer": [
+      {
+        "start": 38,
+        "end": 81,
+        "text": "oily, caramelised or flavoured coffee beans",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1554,
+    "created_at": "2022-12-22T22:00:50.494297Z",
+    "updated_at": "2022-12-22T22:00:50.494297Z",
+    "lead_time": 7.661
+  },
+  {
+    "text": "It is recommended that you do not use oily, caramelised or flavoured coffee beans for this appliance. These kinds of beans may damage the appliance. Check that the coffee beans do not contain any foreign particles such as grit, as any damage caused by the presence of foreign particles will invalidate the guarantee. Do not put water into the coffee bean container. Remember to fit the drip tray to avoid waste water flowing onto the work surface and staining it or scalding you. Check that your water tank is clean.",
+    "question": "What invalidates the guarantee of my machine?",
+    "id": 1681,
+    "answer": [
+      {
+        "start": 231,
+        "end": 285,
+        "text": "any damage caused by the presence of foreign particles",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1555,
+    "created_at": "2022-12-22T22:01:22.287023Z",
+    "updated_at": "2022-12-22T22:01:22.287023Z",
+    "lead_time": 31.424
+  },
+  {
+    "text": "The amount of water needed to make an espresso is between 30 and 70 ml. The amount of water needed to make a coffee is between 80 and 220 ml.",
+    "question": "What amount of water is needed for an espresso?",
+    "id": 1682,
+    "answer": [
+      {
+        "start": 50,
+        "end": 70,
+        "text": "between 30 and 70 ml",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1556,
+    "created_at": "2022-12-22T22:01:36.126176Z",
+    "updated_at": "2022-12-22T22:01:36.127182Z",
+    "lead_time": 13.47
+  },
+  {
+    "text": "The amount of water needed to make an espresso is between 30 and 70 ml. The amount of water needed to make a coffee is between 80 and 220 ml.",
+    "question": "What amount of water is needed to make a coffee?",
+    "id": 1683,
+    "answer": [
+      {
+        "start": 119,
+        "end": 140,
+        "text": "between 80 and 220 ml",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1557,
+    "created_at": "2022-12-22T22:01:50.025192Z",
+    "updated_at": "2022-12-22T22:01:50.025192Z",
+    "lead_time": 13.526
+  },
+  {
+    "text": "We recommend that you use pasteurised or UHT milk that has been recently opened. Untreated milk does not give the best results.",
+    "question": "What kind of milk do you recommend?",
+    "id": 1684,
+    "answer": [
+      {
+        "start": 26,
+        "end": 49,
+        "text": "pasteurised or UHT milk",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1558,
+    "created_at": "2022-12-22T22:01:56.743033Z",
+    "updated_at": "2022-12-22T22:01:56.743033Z",
+    "lead_time": 6.344
+  },
+  {
+    "text": "We recommend that you use pasteurised or UHT milk that has been recently opened. Untreated milk does not give the best results.",
+    "question": "What results gives untreated milk?",
+    "id": 1685,
+    "answer": [
+      {
+        "start": 96,
+        "end": 126,
+        "text": "does not give the best results",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1559,
+    "created_at": "2022-12-22T22:02:03.519282Z",
+    "updated_at": "2022-12-22T22:02:03.519282Z",
+    "lead_time": 6.396
+  },
+  {
+    "text": "The steam nozzle can be removed for more intense cleaning. Wash it out with water and a little washing up liquid and a small non-abrasive brush.",
+    "question": "Can I remove the steam nozzle?",
+    "id": 1686,
+    "answer": [
+      {
+        "start": 4,
+        "end": 31,
+        "text": "steam nozzle can be removed",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1560,
+    "created_at": "2022-12-22T22:02:12.055208Z",
+    "updated_at": "2022-12-22T22:02:12.055208Z",
+    "lead_time": 8.132
+  },
+  {
+    "text": "Do not wash the steam nozzle in a dishwasher. To interrupt the steam function, simply press any button. If the nozzle is obstructed, unblock it with the needle provided. Steam can be produced for a maximum of 2 minutes per cycle.",
+    "question": "Can I wash the steam nozzle in the washing machine?",
+    "id": 1687,
+    "answer": [
+      {
+        "start": 0,
+        "end": 44,
+        "text": "Do not wash the steam nozzle in a dishwasher",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1561,
+    "created_at": "2022-12-22T22:02:18.613823Z",
+    "updated_at": "2022-12-22T22:02:18.613823Z",
+    "lead_time": 6.183
+  },
+  {
+    "text": "Do not wash the steam nozzle in a dishwasher. To interrupt the steam function, simply press any button. If the nozzle is obstructed, unblock it with the needle provided. Steam can be produced for a maximum of 2 minutes per cycle.",
+    "question": "How can I interrupt the steam process?",
+    "id": 1688,
+    "answer": [
+      {
+        "start": 79,
+        "end": 102,
+        "text": "simply press any button",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1562,
+    "created_at": "2022-12-22T22:02:32.228622Z",
+    "updated_at": "2022-12-22T22:02:32.228622Z",
+    "lead_time": 13.217
+  },
+  {
+    "text": "Do not wash the steam nozzle in a dishwasher. To interrupt the steam function, simply press any button. If the nozzle is obstructed, unblock it with the needle provided. Steam can be produced for a maximum of 2 minutes per cycle.",
+    "question": "How much steam can be produced?",
+    "id": 1689,
+    "answer": [
+      {
+        "start": 192,
+        "end": 228,
+        "text": "for a maximum of 2 minutes per cycle",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1563,
+    "created_at": "2022-12-22T22:02:41.316658Z",
+    "updated_at": "2022-12-22T22:02:41.316658Z",
+    "lead_time": 8.686
+  },
+  {
+    "text": "Auto-cappuccino XS 6000 Set (sold separately): This auto-cappuccino accessory enables you to make cappuccinos or lattes - Fig. 16. Connect the different parts to each other. Ensure that you do not pierce the pipe by keeping the button in the correct place.",
+    "question": "What is the Auto-Cappucino accessory good for?",
+    "id": 1690,
+    "answer": [
+      {
+        "start": 52,
+        "end": 119,
+        "text": "auto-cappuccino accessory enables you to make cappuccinos or lattes",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1564,
+    "created_at": "2022-12-22T22:02:55.051195Z",
+    "updated_at": "2022-12-22T22:02:55.051195Z",
+    "lead_time": 13.382
+  },
+  {
+    "text": "Auto-cappuccino XS 6000 Set (sold separately): This auto-cappuccino accessory enables you to make cappuccinos or lattes - Fig. 16. Connect the different parts to each other. Ensure that you do not pierce the pipe by keeping the button in the correct place.",
+    "question": "Does the machine come with the auto-cappucino XS 6000?",
+    "id": 1691,
+    "answer": [
+      {
+        "start": 29,
+        "end": 44,
+        "text": "sold separately",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1565,
+    "created_at": "2022-12-22T22:02:59.474812Z",
+    "updated_at": "2022-12-22T22:02:59.474812Z",
+    "lead_time": 4.055
+  },
+  {
+    "text": "After switching on your coffee maker, never touch the hot plate with your hand when removing the jug from the coffee maker. Whilst in operation, the plate reaches a high temperature and can cause burns.",
+    "question": "Can I touch the plate with my hand?",
+    "id": 1692,
+    "answer": [
+      {
+        "start": 38,
+        "end": 78,
+        "text": "never touch the hot plate with your hand",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1566,
+    "created_at": "2022-12-22T22:03:12.258791Z",
+    "updated_at": "2022-12-22T22:03:12.258791Z",
+    "lead_time": 12.435
+  },
+  {
+    "text": "BEFORE FIRST USE:  Remove all packaging, stickers and accessories from the inside and the outside of the appliance. Operate the coffee-maker for the first time with no coffee, and with the water tanks full (both sides), to rinse out the circuits.",
+    "question": "What should I do on my first use of the machine?",
+    "id": 1693,
+    "answer": [
+      {
+        "start": 19,
+        "end": 97,
+        "text": "Remove all packaging, stickers and accessories from the inside and the outside",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1567,
+    "created_at": "2022-12-22T22:03:30.107572Z",
+    "updated_at": "2022-12-22T22:03:30.107572Z",
+    "lead_time": 17.454
+  },
+  {
+    "text": " Your appliance is fitted with glass jugs (according to model): Follow the illustrations, from 1 to 9. Do not fill the water tank above the max graduation mark. The anti-drip system allows you to remove the jug (g) during coffee preparation. Return the jug to the coffee-maker without delay, in order to prevent any overflow of the filter holder (e). The appliance can be switched off at any time by pressing the start/stop button. The LED will switch OFF.",
+    "question": "How much can I fill the water cup?",
+    "id": 1694,
+    "answer": [
+      {
+        "start": 106,
+        "end": 159,
+        "text": "not fill the water tank above the max graduation mark",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1568,
+    "created_at": "2022-12-22T22:03:44.747868Z",
+    "updated_at": "2022-12-22T22:03:44.747868Z",
+    "lead_time": 14.236
+  },
+  {
+    "text": " Your appliance is fitted with glass jugs (according to model): Follow the illustrations, from 1 to 9. Do not fill the water tank above the max graduation mark. The anti-drip system allows you to remove the jug (g) during coffee preparation. Return the jug to the coffee-maker without delay, in order to prevent any overflow of the filter holder (e). The appliance can be switched off at any time by pressing the start/stop button. The LED will switch OFF.",
+    "question": "What allows me to remove the jug during coffee preparation?",
+    "id": 1695,
+    "answer": [
+      {
+        "start": 165,
+        "end": 181,
+        "text": "anti-drip system",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1569,
+    "created_at": "2022-12-22T22:03:53.215347Z",
+    "updated_at": "2022-12-22T22:03:53.215347Z",
+    "lead_time": 8.095
+  },
+  {
+    "text": " Your appliance is fitted with glass jugs (according to model): Follow the illustrations, from 1 to 9. Do not fill the water tank above the max graduation mark. The anti-drip system allows you to remove the jug (g) during coffee preparation. Return the jug to the coffee-maker without delay, in order to prevent any overflow of the filter holder (e). The appliance can be switched off at any time by pressing the start/stop button. The LED will switch OFF.",
+    "question": "When can I switch the appliance off?",
+    "id": 1696,
+    "answer": [
+      {
+        "start": 385,
+        "end": 396,
+        "text": "at any time",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1570,
+    "created_at": "2022-12-22T22:04:03.922407Z",
+    "updated_at": "2022-12-22T22:04:03.922407Z",
+    "lead_time": 10.334
+  },
+  {
+    "text": "Disconnect the appliance from the power supply. Do not clean the appliance when still hot. Clean with a damp cloth or sponge. Never put the appliance into water on under running water. To remove the used grounds or leaves, remove the filter holder from the coffee-maker. The glass jugs (g), their lids, and the filter holder (e) can be placed in the dishwasher",
+    "question": "Do I need to wait for the machine to cool off if I want to clean it?",
+    "id": 1697,
+    "answer": [
+      {
+        "start": 48,
+        "end": 89,
+        "text": "Do not clean the appliance when still hot",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1571,
+    "created_at": "2022-12-22T22:04:15.481647Z",
+    "updated_at": "2022-12-22T22:04:15.481647Z",
+    "lead_time": 11.162
+  },
+  {
+    "text": "Disconnect the appliance from the power supply. Do not clean the appliance when still hot. Clean with a damp cloth or sponge. Never put the appliance into water on under running water. To remove the used grounds or leaves, remove the filter holder from the coffee-maker. The glass jugs (g), their lids, and the filter holder (e) can be placed in the dishwasher",
+    "question": "With what utensil should I clean the machine?",
+    "id": 1698,
+    "answer": [
+      {
+        "start": 91,
+        "end": 124,
+        "text": "Clean with a damp cloth or sponge",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1572,
+    "created_at": "2022-12-22T22:04:25.613153Z",
+    "updated_at": "2022-12-22T22:04:25.613153Z",
+    "lead_time": 9.727
+  },
+  {
+    "text": "Disconnect the appliance from the power supply. Do not clean the appliance when still hot. Clean with a damp cloth or sponge. Never put the appliance into water on under running water. To remove the used grounds or leaves, remove the filter holder from the coffee-maker. The glass jugs (g), their lids, and the filter holder (e) can be placed in the dishwasher",
+    "question": "Can I put the appliance under water for cleaning?",
+    "id": 1699,
+    "answer": [
+      {
+        "start": 126,
+        "end": 183,
+        "text": "Never put the appliance into water on under running water",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1573,
+    "created_at": "2022-12-22T22:04:40.375504Z",
+    "updated_at": "2022-12-22T22:04:40.375504Z",
+    "lead_time": 14.393
+  },
+  {
+    "text": "Disconnect the appliance from the power supply. Do not clean the appliance when still hot. Clean with a damp cloth or sponge. Never put the appliance into water on under running water. To remove the used grounds or leaves, remove the filter holder from the coffee-maker. The glass jugs (g), their lids, and the filter holder (e) can be placed in the dishwasher",
+    "question": "Can I use the dishwasher for washing the machine?",
+    "id": 1700,
+    "answer": [
+      {
+        "start": 275,
+        "end": 360,
+        "text": "glass jugs (g), their lids, and the filter holder (e) can be placed in the dishwasher",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1574,
+    "created_at": "2022-12-22T22:05:01.082749Z",
+    "updated_at": "2022-12-22T22:05:01.082749Z",
+    "lead_time": 20.317
+  },
+  {
+    "text": "If the running time of the water is too long or there is excessive noise: - de-scale the coffee-maker.",
+    "question": "What should I do when there is weird noise coming from the machine?",
+    "id": 1701,
+    "answer": [
+      {
+        "start": 76,
+        "end": 101,
+        "text": "de-scale the coffee-maker",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1575,
+    "created_at": "2022-12-22T22:05:12.750074Z",
+    "updated_at": "2022-12-22T22:05:12.750074Z",
+    "lead_time": 11.267
+  },
+  {
+    "text": "If your appliance still does not work, contact an approved Krups service centre (see the list in the “Krups Service” booklet).",
+    "question": "When should I contact the service?",
+    "id": 1702,
+    "answer": [
+      {
+        "start": 0,
+        "end": 37,
+        "text": "If your appliance still does not work",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1576,
+    "created_at": "2022-12-22T22:05:24.313505Z",
+    "updated_at": "2022-12-22T22:05:24.313505Z",
+    "lead_time": 11.194
+  },
+  {
+    "text": "De-scale your appliance once every 40 cycles of use (very hard water) or 80 cycles (soft water). You can use: - either one sachet of scale remover which can be purchased from a hardware store diluted in 2 large glasses of water,- or 2 large glasses of white vinegar commercially available ",
+    "question": "How often should I descale the product?",
+    "id": 1703,
+    "answer": [
+      {
+        "start": 24,
+        "end": 96,
+        "text": "once every 40 cycles of use (very hard water) or 80 cycles (soft water).",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1577,
+    "created_at": "2022-12-22T22:05:39.717168Z",
+    "updated_at": "2022-12-22T22:05:39.717168Z",
+    "lead_time": 15.034
+  },
+  {
+    "text": "De-scale your appliance once every 40 cycles of use (very hard water) or 80 cycles (soft water). You can use: - either one sachet of scale remover which can be purchased from a hardware store diluted in 2 large glasses of water,- or 2 large glasses of white vinegar commercially available ",
+    "question": "Can I use vinegar for descaling?",
+    "id": 1704,
+    "answer": [
+      {
+        "start": 233,
+        "end": 265,
+        "text": "2 large glasses of white vinegar",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1578,
+    "created_at": "2022-12-22T22:05:48.378166Z",
+    "updated_at": "2022-12-22T22:05:48.378166Z",
+    "lead_time": 8.27
+  },
+  {
+    "text": "Your appliance is intented for domestic use inside the home only at an altitude below 2000m.",
+    "question": "For what altitude is the appliance intented?",
+    "id": 1705,
+    "answer": [
+      {
+        "start": 80,
+        "end": 92,
+        "text": "below 2000m.",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1579,
+    "created_at": "2022-12-22T22:05:53.420243Z",
+    "updated_at": "2022-12-22T22:05:53.420243Z",
+    "lead_time": 4.677
+  },
+  {
+    "text": "Any error in the electrical connection will negate your guarantee.",
+    "question": "What can negate my guarantee on the machine?",
+    "id": 1706,
+    "answer": [
+      {
+        "start": 0,
+        "end": 38,
+        "text": "Any error in the electrical connection",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1580,
+    "created_at": "2022-12-22T22:06:06.333048Z",
+    "updated_at": "2022-12-22T22:06:06.333048Z",
+    "lead_time": 12.543
+  },
+  {
+    "text": "Do not use the appliance if it is not working properly or if it has been damaged. If this occurs, contact an authorised service centre",
+    "question": "When should I contact a service center?",
+    "id": 1707,
+    "answer": [
+      {
+        "start": 25,
+        "end": 80,
+        "text": "if it is not working properly or if it has been damaged",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1581,
+    "created_at": "2022-12-22T22:06:17.023237Z",
+    "updated_at": "2022-12-22T22:06:17.023237Z",
+    "lead_time": 10.305
+  },
+  {
+    "text": "CURRENT TIME SETTING 1. Press and hold the Time setting HR button (H6) for around 3 seconds. The first two digits 00: flash while the last two digits :00 are fixed, you can set the Hour using the same button (H6). Holding down the button will increase the hour value progressively  faster. 2. When hour value is correct, wait for 5 seconds. The first two digits 00: stop flashing and fix, the current Hour is memorised. 3. Hold the Time setting MIN button (H7) for around 3 seconds. The last two digits :00 flash (the first two digits for HR 00: stay fixed), you can set the Minute using the same button (H7). While the button is held down, minute value increases progressively faster. 4. When minute value is selected, wait for 5 seconds. The last two digits :00 become fix, the current Minute is memorised.",
+    "question": "How do I access the time setting function on my coffee machine?",
+    "id": 1708,
+    "answer": [
+      {
+        "start": 24,
+        "end": 91,
+        "text": "Press and hold the Time setting HR button (H6) for around 3 seconds",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1582,
+    "created_at": "2022-12-22T22:06:39.457358Z",
+    "updated_at": "2022-12-22T22:06:39.457358Z",
+    "lead_time": 22.046
+  },
+  {
+    "text": "CURRENT TIME SETTING 1. Press and hold the Time setting HR button (H6) for around 3 seconds. The first two digits 00: flash while the last two digits :00 are fixed, you can set the Hour using the same button (H6). Holding down the button will increase the hour value progressively  faster. 2. When hour value is correct, wait for 5 seconds. The first two digits 00: stop flashing and fix, the current Hour is memorised. 3. Hold the Time setting MIN button (H7) for around 3 seconds. The last two digits :00 flash (the first two digits for HR 00: stay fixed), you can set the Minute using the same button (H7). While the button is held down, minute value increases progressively faster. 4. When minute value is selected, wait for 5 seconds. The last two digits :00 become fix, the current Minute is memorised.",
+    "question": "How do I set the hour value for the current time on my coffee machine?",
+    "id": 1709,
+    "answer": [
+      {
+        "start": 186,
+        "end": 207,
+        "text": "using the same button",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1583,
+    "created_at": "2022-12-22T22:06:57.589562Z",
+    "updated_at": "2022-12-22T22:06:57.589562Z",
+    "lead_time": 17.765
+  },
+  {
+    "text": "CURRENT TIME SETTING 1. Press and hold the Time setting HR button (H6) for around 3 seconds. The first two digits 00: flash while the last two digits :00 are fixed, you can set the Hour using the same button (H6). Holding down the button will increase the hour value progressively  faster. 2. When hour value is correct, wait for 5 seconds. The first two digits 00: stop flashing and fix, the current Hour is memorised. 3. Hold the Time setting MIN button (H7) for around 3 seconds. The last two digits :00 flash (the first two digits for HR 00: stay fixed), you can set the Minute using the same button (H7). While the button is held down, minute value increases progressively faster. 4. When minute value is selected, wait for 5 seconds. The last two digits :00 become fix, the current Minute is memorised.",
+    "question": "How do I set the minute value for the current time on my coffee machine?",
+    "id": 1710,
+    "answer": [
+      {
+        "start": 423,
+        "end": 481,
+        "text": "Hold the Time setting MIN button (H7) for around 3 seconds",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1584,
+    "created_at": "2022-12-22T22:07:13.888320Z",
+    "updated_at": "2022-12-22T22:07:13.888320Z",
+    "lead_time": 15.923
+  },
+  {
+    "text": "CURRENT TIME SETTING 1. Press and hold the Time setting HR button (H6) for around 3 seconds. The first two digits 00: flash while the last two digits :00 are fixed, you can set the Hour using the same button (H6). Holding down the button will increase the hour value progressively  faster. 2. When hour value is correct, wait for 5 seconds. The first two digits 00: stop flashing and fix, the current Hour is memorised. 3. Hold the Time setting MIN button (H7) for around 3 seconds. The last two digits :00 flash (the first two digits for HR 00: stay fixed), you can set the Minute using the same button (H7). While the button is held down, minute value increases progressively faster. 4. When minute value is selected, wait for 5 seconds. The last two digits :00 become fix, the current Minute is memorised.",
+    "question": "How long do I need to hold the time setting button for setting the minutes?",
+    "id": 1711,
+    "answer": [
+      {
+        "start": 461,
+        "end": 481,
+        "text": "for around 3 seconds",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1585,
+    "created_at": "2022-12-22T22:07:27.210579Z",
+    "updated_at": "2022-12-22T22:07:27.210579Z",
+    "lead_time": 12.945
+  },
+  {
+    "text": "1. If no operation on the machine for 10 minutes, the appliance enters Standby mode for Energy saving. All display switch off. 2. To wake up the machine : Press any button on the front panel – The Time (24h format) is displayed. – The machine enters “Ready to use” status for coffee preparation",
+    "question": "When does the machine go into standby mode?",
+    "id": 1712,
+    "answer": [
+      {
+        "start": 6,
+        "end": 48,
+        "text": "no operation on the machine for 10 minutes",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1586,
+    "created_at": "2022-12-22T22:07:40.752271Z",
+    "updated_at": "2022-12-22T22:07:40.752271Z",
+    "lead_time": 13.192
+  },
+  {
+    "text": "1. If no operation on the machine for 10 minutes, the appliance enters Standby mode for Energy saving. All display switch off. 2. To wake up the machine : Press any button on the front panel – The Time (24h format) is displayed. – The machine enters “Ready to use” status for coffee preparation",
+    "question": "How do I wake up my machine from standby mode?",
+    "id": 1713,
+    "answer": [
+      {
+        "start": 155,
+        "end": 171,
+        "text": "Press any button",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1587,
+    "created_at": "2022-12-22T22:08:13.664286Z",
+    "updated_at": "2022-12-22T22:08:13.664286Z",
+    "lead_time": 32.53
+  },
+  {
+    "text": "Help protect the environment! Your machine contains many recoverable or recyclable materials. Take these to a collection centre, or to an approved service centre for processing.",
+    "question": "Where can I dispose my machine?",
+    "id": 1714,
+    "answer": [
+      {
+        "start": 110,
+        "end": 161,
+        "text": "collection centre, or to an approved service centre",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1588,
+    "created_at": "2022-12-22T22:08:23.484924Z",
+    "updated_at": "2022-12-22T22:08:23.484924Z",
+    "lead_time": 9.429
+  },
+  {
+    "text": "Before making coffee for the first time, run the coffee maker twice, only adding water each time. After the first cycle wait about 5 minutes before running the coffee maker again.",
+    "question": "How long after the first cycle should I wait to run the coffee maker again?",
+    "id": 1715,
+    "answer": [
+      {
+        "start": 125,
+        "end": 140,
+        "text": "about 5 minutes",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1589,
+    "created_at": "2022-12-22T22:08:32.274390Z",
+    "updated_at": "2022-12-22T22:08:32.274390Z",
+    "lead_time": 8.389
+  },
+  {
+    "text": "After a certain period of use, there is the risk that the lid of the water tank or of the filter holder or the hot water pipe may no longer close perfectly. This is due to the deterioration of the seals. Spare seals can be obtained from a Service Centre. To remove the seal from its position, use a suitable instrument (a screwdriver, for example) and make sure that the new seal is properly inserted and held in place. (14)",
+    "question": "Where can I get a new seal?",
+    "id": 1716,
+    "answer": [
+      {
+        "start": 232,
+        "end": 253,
+        "text": "from a Service Centre",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1590,
+    "created_at": "2022-12-22T22:08:52.538951Z",
+    "updated_at": "2022-12-22T22:08:52.538951Z",
+    "lead_time": 19.852
+  },
+  {
+    "text": "After a certain period of use, there is the risk that the lid of the water tank or of the filter holder or the hot water pipe may no longer close perfectly. This is due to the deterioration of the seals. Spare seals can be obtained from a Service Centre. To remove the seal from its position, use a suitable instrument (a screwdriver, for example) and make sure that the new seal is properly inserted and held in place. (14)",
+    "question": "How can I remove the seal?",
+    "id": 1717,
+    "answer": [
+      {
+        "start": 293,
+        "end": 333,
+        "text": "use a suitable instrument (a screwdriver",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1591,
+    "created_at": "2022-12-22T22:09:01.870979Z",
+    "updated_at": "2022-12-22T22:09:01.870979Z",
+    "lead_time": 8.958
+  },
+  {
+    "text": "The packaging consists solely of environmentally friendly materials that can be disposed of according to your local recycling facilities. To find out how to dispose of the appliance itself, contact the relevant department of your local administrative body.",
+    "question": "Is the packaging environmental friendly?",
+    "id": 1718,
+    "answer": [
+      {
+        "start": 0,
+        "end": 67,
+        "text": "The packaging consists solely of environmentally friendly materials",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1592,
+    "created_at": "2022-12-22T22:09:10.105864Z",
+    "updated_at": "2022-12-22T22:09:10.105864Z",
+    "lead_time": 7.829
+  },
+  {
+    "text": "The packaging consists solely of environmentally friendly materials that can be disposed of according to your local recycling facilities. To find out how to dispose of the appliance itself, contact the relevant department of your local administrative body.",
+    "question": "Where can I find out how to dispose the appliance?",
+    "id": 1719,
+    "answer": [
+      {
+        "start": 190,
+        "end": 255,
+        "text": "contact the relevant department of your local administrative body",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1593,
+    "created_at": "2022-12-22T22:09:20.367423Z",
+    "updated_at": "2022-12-22T22:09:20.367423Z",
+    "lead_time": 9.891
+  },
+  {
+    "text": "For the best flavours and to make sure your appliance lasts as long as possible, we recommend you only use the Claris - Aqua Filter System cartridge, sold separately.",
+    "question": "What kind of filters are recommended?",
+    "id": 1720,
+    "answer": [
+      {
+        "start": 107,
+        "end": 148,
+        "text": "the Claris - Aqua Filter System cartridge",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1594,
+    "created_at": "2022-12-22T22:09:31.933766Z",
+    "updated_at": "2022-12-22T22:09:31.933766Z",
+    "lead_time": 11.158
+  },
+  {
+    "text": "When first using your machine, you may choose to activate automatic rinsing. To do this, choose the “YES” option on the “Auto rinse” menu. Rinsing will take place each time you turn on the machine. To modify this at a later stage, you can select automatic rinsing by pressing PROG – Settings - Auto rinse.",
+    "question": "When will rinsing take place if it is set to \"Auto Rinse\"?",
+    "id": 1721,
+    "answer": [
+      {
+        "start": 163,
+        "end": 196,
+        "text": "each time you turn on the machine",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1595,
+    "created_at": "2022-12-22T22:09:45.513994Z",
+    "updated_at": "2022-12-22T22:09:45.513994Z",
+    "lead_time": 13.173
+  },
+  {
+    "text": "Coffee circuit rinsing: You can start rinsing at any time by pressing PROG to display the menus then selecting MAINTENANCE -> OK -> RINSING -> OK.",
+    "question": "How can I start rinsing?",
+    "id": 1722,
+    "answer": [
+      {
+        "start": 58,
+        "end": 74,
+        "text": "by pressing PROG",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1596,
+    "created_at": "2022-12-22T22:10:02.182396Z",
+    "updated_at": "2022-12-22T22:10:02.182396Z",
+    "lead_time": 16.288
+  },
+  {
+    "text": "Preparing an espresso: The quantity of water required for an espresso is between 20 and 70 ml.",
+    "question": "How much water is required for making an espresso?",
+    "id": 1723,
+    "answer": [
+      {
+        "start": 73,
+        "end": 93,
+        "text": "between 20 and 70 ml",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1597,
+    "created_at": "2022-12-22T22:10:10.287637Z",
+    "updated_at": "2022-12-22T22:10:10.287637Z",
+    "lead_time": 7.714
+  },
+  {
+    "text": "Preparing a long coffee The quantity of water required for a long coffee is between 120 and 240 ml. The appliance automatically carries out a double cycle, so do not remove your cup before preparation is finished.",
+    "question": "How much water is needed when I want to do a long coffee?",
+    "id": 1724,
+    "answer": [
+      {
+        "start": 76,
+        "end": 98,
+        "text": "between 120 and 240 ml",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1598,
+    "created_at": "2022-12-22T22:10:17.205371Z",
+    "updated_at": "2022-12-22T22:10:17.205371Z",
+    "lead_time": 6.52
+  },
+  {
+    "text": "Your appliance enables you to prepare two coffee or espresso recipes for the following three preparations: espresso/strong espresso/coffee. This function is not available for long coffee drinks. The appliance will automatically run two complete coffee preparation cycles one after the other. You should therefore ensure that you place the second cup beneath the coffee outlet immediately the first cycle has finished.",
+    "question": "What kind of recipes are there for two-cup coffees?",
+    "id": 1725,
+    "answer": [
+      {
+        "start": 107,
+        "end": 138,
+        "text": "espresso/strong espresso/coffee",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1599,
+    "created_at": "2022-12-22T22:10:37.703610Z",
+    "updated_at": "2022-12-22T22:10:37.704609Z",
+    "lead_time": 20.082
+  },
+  {
+    "text": "Your appliance enables you to prepare two coffee or espresso recipes for the following three preparations: espresso/strong espresso/coffee. This function is not available for long coffee drinks. The appliance will automatically run two complete coffee preparation cycles one after the other. You should therefore ensure that you place the second cup beneath the coffee outlet immediately the first cycle has finished.",
+    "question": "When do I need to place the second cup when using the Two-cup function?",
+    "id": 1726,
+    "answer": [
+      {
+        "start": 376,
+        "end": 416,
+        "text": "immediately the first cycle has finished",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1600,
+    "created_at": "2022-12-22T22:10:48.981019Z",
+    "updated_at": "2022-12-22T22:10:48.981019Z",
+    "lead_time": 10.904
+  },
+  {
+    "text": "Install the steam nozzle on the machine. Select the hot water recipe from the drinks selection menu. A message invites you to place a container beneath the steam nozzle. You can start hot water production by pressing the confirmation button. To interrupt the hot water function, simply press any button. If the nozzle is obstructed, unblock it with the needle provided. The maximum quantity of water per cycle is limited to 300 ml.",
+    "question": "How do I start hot water production on my coffee machine?",
+    "id": 1727,
+    "answer": [
+      {
+        "start": 41,
+        "end": 99,
+        "text": "Select the hot water recipe from the drinks selection menu",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1601,
+    "created_at": "2022-12-22T22:10:58.540038Z",
+    "updated_at": "2022-12-22T22:10:58.540038Z",
+    "lead_time": 9.187
+  },
+  {
+    "text": "Install the steam nozzle on the machine. Select the hot water recipe from the drinks selection menu. A message invites you to place a container beneath the steam nozzle. You can start hot water production by pressing the confirmation button. To interrupt the hot water function, simply press any button. If the nozzle is obstructed, unblock it with the needle provided. The maximum quantity of water per cycle is limited to 300 ml.",
+    "question": "How can I unblock the steam nozzle?",
+    "id": 1728,
+    "answer": [
+      {
+        "start": 333,
+        "end": 368,
+        "text": "unblock it with the needle provided",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1602,
+    "created_at": "2022-12-22T22:11:06.520013Z",
+    "updated_at": "2022-12-22T22:11:06.520013Z",
+    "lead_time": 7.614
+  },
+  {
+    "text": "Install the steam nozzle on the machine. Select the hot water recipe from the drinks selection menu. A message invites you to place a container beneath the steam nozzle. You can start hot water production by pressing the confirmation button. To interrupt the hot water function, simply press any button. If the nozzle is obstructed, unblock it with the needle provided. The maximum quantity of water per cycle is limited to 300 ml.",
+    "question": "Is there a maximum quantity of water that can be produced in a single cycle on my coffee machine?",
+    "id": 1729,
+    "answer": [
+      {
+        "start": 394,
+        "end": 430,
+        "text": "water per cycle is limited to 300 ml",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1603,
+    "created_at": "2022-12-22T22:11:13.152917Z",
+    "updated_at": "2022-12-22T22:11:13.152917Z",
+    "lead_time": 6.234
+  },
+  {
+    "text": "The machine enables you to set the quantities of milk and coffee according to your desires for a perfectly personalised cappuccino. You can alter these settings via the Cappuccino Settings menu.",
+    "question": "Where can I change the configurations for milk and coffee quantities?",
+    "id": 1730,
+    "answer": [
+      {
+        "start": 161,
+        "end": 193,
+        "text": "via the Cappuccino Settings menu",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1604,
+    "created_at": "2022-12-22T22:12:00.206606Z",
+    "updated_at": "2022-12-22T22:12:00.206606Z",
+    "lead_time": 46.686
+  },
+  {
+    "text": "To carry out a cleaning programme, you will require a container with a capacity of at least 0.6 L and KRUPS XS 4000 cleaning liquid.",
+    "question": "What is required to use the cleaning programme?",
+    "id": 1731,
+    "answer": [
+      {
+        "start": 54,
+        "end": 131,
+        "text": "container with a capacity of at least 0.6 L and KRUPS XS 4000 cleaning liquid",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1605,
+    "created_at": "2022-12-22T22:12:09.875399Z",
+    "updated_at": "2022-12-22T22:12:09.875399Z",
+    "lead_time": 9.268
+  },
+  {
+    "text": "You access the menu with the appliance's other functions by means of the PROG button from the drinks selection screen. For all settings, the rotating button enables you to navigate through the menus and options and to confirm a choice, while the PROG button enables you to cancel a selection and return to the drinks selection menu.",
+    "question": "How can I cancel a selection in the menu?",
+    "id": 1732,
+    "answer": [
+      {
+        "start": 246,
+        "end": 257,
+        "text": "PROG button",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1606,
+    "created_at": "2022-12-22T22:12:34.252115Z",
+    "updated_at": "2022-12-22T22:12:51.041131Z",
+    "lead_time": 25.885
+  },
+  {
+    "text": "You access the menu with the appliance's other functions by means of the PROG button from the drinks selection screen. For all settings, the rotating button enables you to navigate through the menus and options and to confirm a choice, while the PROG button enables you to cancel a selection and return to the drinks selection menu.",
+    "question": "What button allows me to navigate through the menus?",
+    "id": 1733,
+    "answer": [
+      {
+        "start": 141,
+        "end": 156,
+        "text": "rotating button",
+        "labels": [
+          "Answer"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1607,
+    "created_at": "2022-12-22T22:12:45.308128Z",
+    "updated_at": "2022-12-22T22:12:45.308128Z",
+    "lead_time": 10.665
+  }
+]

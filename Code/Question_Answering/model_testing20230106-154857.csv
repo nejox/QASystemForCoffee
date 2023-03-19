@@ -1,0 +1,4 @@
+odel;exact_match;f1
+deepset/roberta-base-squad2;27.522935779816514;58.311381804716326
+distilbert-base-uncased-distilled-squad;21.10091743119266;49.88684688694899
+deepset/bert-base-cased-squad2;22.01834862385321;52.30568680686507

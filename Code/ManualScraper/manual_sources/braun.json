@@ -1,0 +1,32 @@
+{
+  "manufacturer_name": "Braun",
+  "base_url": "https://www.braunhousehold.com/",
+  "onlyDynamic": false,
+  "paths": [
+    "https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/aromaster-kaffeemaschinen/c/aromaster_coffee_machines",
+	"https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/puraroma-7/c/puraroma_7",
+	"https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/id-fruehstuecksserie-kaffeemaschinen/c/id_breakfast_collection_coffee_machines",
+	"https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/purease-kaffeemaschinen/c/purease_coffee_machines",
+	"https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/cafehouse-coffee-machines/c/cafehouse_coffee_machines",
+	"https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/multiserve-kaffeemaschine/c/multiserve_coffee_machines",
+	"https://www.braunhousehold.com/de-de/manuals/produkte/fruehstueck/kaffeemaschinen/breakfast-1-collection-coffee-machines/c/breakfast_1_collection_coffee_machines"
+  ],
+  "layers": [
+    {
+      "html_tag": "div",
+      "html_class": "dln-categoryBox",
+      "css_selector": "div.dln-categoryBox > a",
+      "filter": null
+    }
+  ],
+  "pdf": {
+    "html_tag": null,
+    "html_class": null,
+    "css_selector": "ul.dln-instruction-manuals__list a",
+    "filter": null
+  },
+  "meta": {
+    "manual_name": "span.dln-instruction-manuals__listText--title",
+    "product_name": "h2.dln-instruction-manuals__mainSubtitle"
+  }
+}

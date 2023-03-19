@@ -1,0 +1,90 @@
+{
+    "manufacturer_name": "Krups",
+    "base_url": "https://www.krups.de/",
+    "onlyDynamic": true,
+    "sleepTime": 3,
+    "paths": [],
+    "requests": {
+        "path" : ["ifuCategory", "products"],
+        "urlKey" : "url",
+        "urls" : [
+            "https://brandsites.api.groupe-seb.com/occ/v2/Krups-DE/basestores/csshierarchy?fields=FULL&type=IFU&selectedCategory=Espresso&lang=de&curr=EUR",
+            "https://brandsites.api.groupe-seb.com/occ/v2/Krups-DE/basestores/csshierarchy?fields=FULL&type=IFU&selectedCategory=Filter&lang=de&curr=EUR",
+            "https://brandsites.api.groupe-seb.com/occ/v2/Krups-DE/basestores/csshierarchy?fields=FULL&type=IFU&selectedCategory=Nespresso&lang=de&curr=EUR",
+            "https://brandsites.api.groupe-seb.com/occ/v2/Krups-DE/basestores/csshierarchy?fields=FULL&type=IFU&selectedCategory=FullAutomat&lang=de&curr=EUR"
+            ]
+    },
+    "layers": [
+        {
+            "html_tag": null,
+            "html_class": null,
+            "css_selector" : "div[class=c__body] a",
+            "filter": [
+                {
+                    "condition_string": "Zubeh%C3%B6r",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "abtropffach",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "cappuccinotassen",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "2-filter",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "filtereinsatz",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "entkalkungsset",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "gittereinsatz",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "tropfschale",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "kaffeekanne-deckel",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "teefilter",
+                    "include_condition": false
+                }
+            ]
+        }
+    ],
+    "pdf":
+        {
+            "html_tag": null,
+            "html_class": null,
+            "css_selector": "a.c__link",
+            "filter" : [
+                {
+                    "condition_string": "Safety",
+                    "include_condition": false
+                },
+                {
+                    "condition_string": "garantie",
+                    "include_condition": false
+                }
+            ]
+        },
+
+    "meta" :
+        {
+            "manual_name" : "p.c__ref.is-caption.ng-star-inserted",
+            "product_name" : "p.c__ref.is-caption.ng-star-inserted",
+            "transform": "([\\S]+)\\s*$"
+        }
+
+}

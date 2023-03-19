@@ -1,0 +1,596 @@
+[
+    {
+        "set": [
+            "This machine is a fully automatic coffee machine.\nDepending on the machine equipment level, the following\nproducts can be dispensed:\n? Coffee products\n? Instant products\n? Hot water\nThe housing consists of stainless steel and high-quality\nplastic. The design of this machine facilitates compliance\nwith the following operator requirements:\n? HACCP hygiene guidelines\n? Accident prevention regulations for electrical safety\nin the commercial sector",
+            "Coffee, instant products and water can be dispensed"
+        ]
+    },
+    {
+        "set": [
+            "This machine is not intended for the following uses:\n\u0095 In areas with high air humidity (e.g., areas with considerable\namounts of steam) or outdoors.\n\u0095 On board vehicles or mobile facilities (please contact\nthe manufacturer).",
+            "The machine should not be used in areas with high air humidity or on mobile objects"
+        ]
+    },
+    {
+        "set": [
+            "Repairs and maintenance work may only be carried out by Melitta customer service or by specialist personnel authorized by the manufacturer. Incorrectly performed repair work can result in considerable risk to the user.",
+            "Repairs and maintenance"
+        ]
+    },
+    {
+        "set": [
+            "The machine can be damaged by penetrating\nwater. The machine is not protected against jets\nof water. Protect the machine against water and\nspray water.\n? Never pour water over the machine.\n? Do not use any water jets, high-pressure\ncleaners, or steam cleaners to clean the machine.\n? The machine is not suitable for installation on\na surface where a water jet might be used",
+            "Protecting the machine"
+        ]
+    },
+    {
+        "set": [
+            "The machine can be damaged by penetrating water. The machine is not protected against jets\nof water. Protect the machine against water and spray water.\n? Never pour water over the machine.\n? Do not use any water jets, high-pressure cleaners, or steam cleaners to clean the machine.\n? The machine is not suitable for installation on a surface where a water jet might be used",
+            "Penetrating water damages the machine"
+        ]
+    },
+    {
+        "set": [
+            "Machine specifications\nDimensions\n(W x D x H)\n400 x 510 x 860 mm\nWeight approx. 50 kg\nCoffee supply 2 x 5 l / 2 x approx. 1600 g\nInstant supply 2 x 1.7 l / 2 x approx.\n1300 g\nCoffee grounds drawer\ncapacity\nFor approx. 30 portions",
+            "Machine specifications"
+        ]
+    },
+    {
+        "set": [
+            "Machine specifications\nDimensions\n(W x D x H)\n400 x 510 x 860 mm\nWeight approx. 50 kg\nCoffee supply 2 x 5 l / 2 x approx. 1600 g\nInstant supply 2 x 1.7 l / 2 x approx.\n1300 g\nCoffee grounds drawer\ncapacity\nFor approx. 30 portions",
+            "Dimension and weight"
+        ]
+    },
+    {
+        "set": [
+            "Machine specifications\nDimensions\n(W x D x H)\n400 x 510 x 860 mm\nWeight approx. 50 kg\nCoffee supply 2 x 5 l / 2 x approx. 1600 g\nInstant supply 2 x 1.7 l / 2 x approx.\n1300 g\nCoffee grounds drawer\ncapacity\nFor approx. 30 portions",
+            "Coffee supply capacity"
+        ]
+    },
+    {
+        "set": [
+            "Operating data\nHourly output approx. 25 l hot water or approx. 100 cups of Caf\u00e9 Cr\u00e8me (125 ml)\nPermissible ambient temperature + 5-30 \u00b0C\nPermissible air humidity  < 80 % non-condensing\nNoise level < 70 dB(A)\nElectrical connection Power supply 200-240 V, 50-60 Hz\nPower consumption 2100-2900 W\nFuse protection provided by customer  16 A (required)\nConnection  2 m mains cable with shockproof\nmains plug",
+            "Electrical connection power"
+        ]
+    },
+    {
+        "set": [
+            "Operating data\nHourly output approx. 25 l hot water or approx. 100 cups of Caf\u00e9 Cr\u00e8me (125 ml)\nPermissible ambient temperature + 5-30 \u00b0C\nPermissible air humidity  < 80 % non-condensing\nNoise level < 70 dB(A)\nElectrical connection Power supply 200-240 V, 50-60 Hz\nPower consumption 2100-2900 W\nFuse protection provided by customer  16 A (required)\nConnection  2 m mains cable with shockproof\nmains plug",
+            "Power consumption"
+        ]
+    },
+    {
+        "set": [
+            "Operating data\nHourly output approx. 25 l hot water or approx. 100 cups of Caf\u00e9 Cr\u00e8me (125 ml)\nPermissible ambient temperature + 5-30 \u00b0C\nPermissible air humidity  < 80 % non-condensing\nNoise level < 70 dB(A)\nElectrical connection Power supply 200-240 V, 50-60 Hz\nPower consumption 2100-2900 W\nFuse protection provided by customer  16 A (required)\nConnection  2 m mains cable with shockproof\nmains plug",
+            "Fuse protection current"
+        ]
+    },
+    {
+        "set": [
+            "Operating data\nHourly output approx. 25 l hot water or approx. 100 cups of Caf\u00e9 Cr\u00e8me (125 ml)\nPermissible ambient temperature + 5-30 \u00b0C\nPermissible air humidity  < 80 % non-condensing\nNoise level < 70 dB(A)\nElectrical connection Power supply 200-240 V, 50-60 Hz\nPower consumption 2100-2900 W\nFuse protection provided by customer  16 A (required)\nConnection  2 m mains cable with shockproof\nmains plug",
+            "Noise level"
+        ]
+    },
+    {
+        "set": [
+            "Water connection\nFresh water connection G \u00be\" outer thread",
+            "Water connection pipe specification"
+        ]
+    },
+    {
+        "set": [
+            "Green user chip key\nThe green user chip keys can be used to carry out the\nfollowing actions:\nSwitching on/off the machine.\nChanging the filling levels.\nCarrying out a full cleaning of the machine.\nCleaning the touch screen.\nRinsing the mixer unit.\nViewing and editing the weekly planner",
+            "Uses of green user chip key"
+        ]
+    },
+    {
+        "set": [
+            "Yellow manager chip key\nThe yellow manager chip key provides the same options as the user chip key. The following additional actions can be carried out: making settings on the machine, editing the dispensing products, creating/editing product groups, displaying consumption and product statistics.",
+            "function of yellow manager chip key"
+        ]
+    },
+    {
+        "set": [
+            "Off: Machine is switched off and can be switched on with the main switch (see chapter 5.3.1 on page 11). White flashing: Machine switches on. White permanently: Machine is ready for dispensing. Red: Machine is in stand-by operation. To switch on see chapter 5.3.2 on page 11. Blue flashing or permanently: Malfunction: Switch off the machine with the main switch and switch it on again. If this occurs repeatedly, contact customer service.",
+            "switching the machine on/off"
+        ]
+    },
+    {
+        "set": [
+            "Off: Machine is switched off and can be switched on with the main switch (see chapter 5.3.1 on page 11). White flashing: Machine switches on. White permanently: Machine is ready for dispensing. Red: Machine is in stand-by operation. To switch on see chapter 5.3.2 on page 11. Blue flashing or permanently: Malfunction: Switch off the machine with the main switch and switch it on again. If this occurs repeatedly, contact customer service.",
+            "meaning of white flashing LED"
+        ]
+    },
+    {
+        "set": [
+            "Off: Machine is switched off and can be switched on with the main switch (see chapter 5.3.1 on page 11). White flashing: Machine switches on. White permanently: Machine is ready for dispensing. Red: Machine is in stand-by operation. To switch on see chapter 5.3.2 on page 11. Blue flashing or permanently: Malfunction: Switch off the machine with the main switch and switch it on again. If this occurs repeatedly, contact customer service.",
+            "Meaning of blue flashing LED"
+        ]
+    },
+    {
+        "set": [
+            "Off: Machine is switched off and can be switched on with the main switch (see chapter 5.3.1 on page 11). White flashing: Machine switches on. White permanently: Machine is ready for dispensing. Red: Machine is in stand-by operation. To switch on see chapter 5.3.2 on page 11. Blue flashing or permanently: Malfunction: Switch off the machine with the main switch and switch it on again. If this occurs repeatedly, contact customer service.",
+            "meaning of permanently white LED"
+        ]
+    },
+    {
+        "set": [
+            "Only use the cleaning agents listed as these are best suited to the automatic cleaning program: Melitta\u00ae Cafina\u00ae Multi TF-Tabs (art. no. 31547)",
+            "Cleaning agents for the automatic cleaning program"
+        ]
+    },
+    {
+        "set": [
+            "The appliance has two service modes. The service modes allow you to configure your appliance and use care and maintenance functions.",
+            "modes of the appliance"
+        ]
+    },
+    {
+        "set": [
+            "Only connect the appliance to a properly installed earthing contact socket. The earthing contact socket must be protected by a fuse with a rating of at least 10 A.",
+            "connection of the appliance to electricity"
+        ]
+    },
+    {
+        "set": [
+            "The Water display lights up. The quality of the tap water largely determines the flavour of the coffee. Fill the water tank only with fresh, cold tap water that has not been carbonated. Change the tap water on a daily basis. Please observe\nthe maximum filling level.",
+            "water used to make the coffee"
+        ]
+    },
+    {
+        "set": [
+            "Important! Do not use freeze-dried or caramelised coffee beans as they can clog the grinder. Coffee powder and instant products can also damage the grinder.",
+            "Use only fresh coffee beans"
+        ]
+    },
+    {
+        "set": [
+            "To prepare milk froth or hot milk, insert the milk hose into a conventional milk pack. In addition, you can use a milk lance or\na milk container. The milk lance and milk container are not included in the delivery. Always use cold milk.",
+            "Preparation of milk"
+        ]
+    },
+    {
+        "set": [
+            "You can prepare two cups at the same time with all of the beverages. To do so, you simply need to press the respective direct key briefly twice in succession. The 2. display lights up during preparation. The Steam dispensing display flashes in addition for milk beverages.",
+            "Preparing two cups of coffee simultaneously"
+        ]
+    },
+    {
+        "set": [
+            "You can still change the brewing strength and the beverage quantity before and during preparation. You can set the brewing strength by pressing the \"Brewing Strength\" button. After the grinding process, you can no longer change the brewing strength. The changed brewing strength will also be used for subsequent coffee preparation processes. You can change the beverage quantity by turning the \"Coffee Quantity\" regulator.",
+            "Brewing strength of the machine"
+        ]
+    },
+    {
+        "set": [
+            "You can still change the brewing strength and the beverage quantity before and during preparation. You can set the brewing strength by pressing the \"Brewing Strength\" button. After the grinding process, you can no longer change the brewing strength. The changed brewing strength will also be used for subsequent coffee preparation processes. You can change the beverage quantity by turning the \"Coffee Quantity\" regulator.",
+            "Beverage quantity "
+        ]
+    },
+    {
+        "set": [
+            "The grinding fineness of the coffee beans\ninfluences the flavour of the coffee. The\nfiner you set the grinding fineness, the\nstronger the coffee.\nThe grinding fineness has been optimally\nset at the factory. Change the grinding\nfineness setting at the earliest after about\n100 coffee dispensing processes (after\napprox. 1 month, depending on coffee\nconsumption).\nYou can set the grinding fineness optimally\nwith the \"Grinding Fineness Adjustment\"\nlever. Adjust the grinding fineness only\nduring the grinding process.",
+            "Grinding fineness of the coffee beans"
+        ]
+    },
+    {
+        "set": [
+            "The grinding fineness of the coffee beans\ninfluences the flavour of the coffee. The\nfiner you set the grinding fineness, the\nstronger the coffee.\nThe grinding fineness has been optimally\nset at the factory. Change the grinding\nfineness setting at the earliest after about\n100 coffee dispensing processes (after\napprox. 1 month, depending on coffee\nconsumption).\nYou can set the grinding fineness optimally\nwith the \"Grinding Fineness Adjustment\"\nlever. Adjust the grinding fineness only\nduring the grinding process.",
+            "Grinding fineness setting"
+        ]
+    },
+    {
+        "set": [
+            "You should clean the brewing unit every week. 1. Remove the cover by reaching into the handle recess and pulling the cover to\nthe side. 2. Press and hold the red lever on the brewing unit handle and turn the handle clockwise until it engages at the stop. 3. Pull the brewing unit out by the handle.",
+            "Cleaning the brewing unit"
+        ]
+    },
+    {
+        "set": [
+            "You should clean the milk system after approximately 100 milk beverages. This appliance does not prompt you to clean the milk system. Only use Melitta\u00ae Perfect Clean milk system cleaning agent for automatic coffeemakers. Use a vessel with a capacity of at least 500 ml as a collecting container.",
+            "Cleaning the milk system"
+        ]
+    },
+    {
+        "set": [
+            "You should clean the milk system after approximately 100 milk beverages. This appliance does not prompt you to clean the milk system. Only use Melitta\u00ae Perfect Clean milk system cleaning agent for automatic coffeemakers. Use a vessel with a capacity of at least 500 ml as a collecting container.",
+            "Frequency of cleaning the milk system"
+        ]
+    },
+    {
+        "set": [
+            "You should clean the milk system after approximately 100 milk beverages. This appliance does not prompt you to clean the milk system. Only use Melitta\u00ae Perfect Clean milk system cleaning agent for automatic coffeemakers. Use a vessel with a capacity of at least 500 ml as a collecting container.",
+            "Cleaning agent for cleaning the milk system"
+        ]
+    },
+    {
+        "set": [
+            "This cleaning program is used to remove residues and coffee oil residues. You should run the program every two months or when the appliance asks you to do so. Only use Melitta\u00ae Perfect Clean cleaning tabs for automatic coffeemakers. Observe the instructions on the packaging of the cleaning tabs. Caution! Cleaning agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "Function of the cleaning program"
+        ]
+    },
+    {
+        "set": [
+            "This cleaning program is used to remove residues and coffee oil residues. You should run the program every two months or when the appliance asks you to do so. Only use Melitta\u00ae Perfect Clean cleaning tabs for automatic coffeemakers. Observe the instructions on the packaging of the cleaning tabs. Caution! Cleaning agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "The process of the cleaning program"
+        ]
+    },
+    {
+        "set": [
+            "This cleaning program is used to remove residues and coffee oil residues. You should run the program every two months or when the appliance asks you to do so. Only use Melitta\u00ae Perfect Clean cleaning tabs for automatic coffeemakers. Observe the instructions on the packaging of the cleaning tabs. Caution! Cleaning agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "use Melitta\u00ae Perfect Clean cleaning tabs for automatic coffeemakers"
+        ]
+    },
+    {
+        "set": [
+            "The descaling program is used to remove limescale deposits. You should run the program every three months or when the appliance asks you to do so. There must not be a water filter in the water tank during descaling. If you use a water filter, you need to remove it before descaling (see section 7.7, page 29). Only use Melitta\u00ae Anti Calc liquid descaling agent for automatic coffeemakers. Caution! Descaling agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "descaling program is used to remove limescale deposits"
+        ]
+    },
+    {
+        "set": [
+            "The descaling program is used to remove limescale deposits. You should run the program every three months or when the appliance asks you to do so. There must not be a water filter in the water tank during descaling. If you use a water filter, you need to remove it before descaling (see section 7.7, page 29). Only use Melitta\u00ae Anti Calc liquid descaling agent for automatic coffeemakers. Caution! Descaling agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "Run descaling program every three months"
+        ]
+    },
+    {
+        "set": [
+            "The descaling program is used to remove limescale deposits. You should run the program every three months or when the appliance asks you to do so. There must not be a water filter in the water tank during descaling. If you use a water filter, you need to remove it before descaling (see section 7.7, page 29). Only use Melitta\u00ae Anti Calc liquid descaling agent for automatic coffeemakers. Caution! Descaling agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "use Melitta\u00ae Anti Calc liquid descaling agent for automatic coffeemakers"
+        ]
+    },
+    {
+        "set": [
+            "The descaling program is used to remove limescale deposits. You should run the program every three months or when the appliance asks you to do so. There must not be a water filter in the water tank during descaling. If you use a water filter, you need to remove it before descaling (see section 7.7, page 29). Only use Melitta\u00ae Anti Calc liquid descaling agent for automatic coffeemakers. Caution! Descaling agent causes eye irritation. If it accidentally comes into contact with your eyes, you should rinse them with clear water for several minutes. Consult a doctor if symptoms persist. The program takes approximately 15 minutes and should not be interrupted. The program runs in several stages. Progress is indicated by the number of coffee beans displayed.",
+            "Descaling program takes 15 minutes"
+        ]
+    },
+    {
+        "set": [
+            "The use of a water filter extends the service life of your appliance. The water filter filters calcium and pollutants out of the tap water. If you use a water filter and change it on a regular basis, you will need to descale the appliance only once per year. This information is based on an average of six 120 ml coffee beverages per day and six filter changes per year. Only use Melitta\u00ae Pro Aqua filter cartridges for automatic coffeemakers. Observe the instructions on the packaging of the filter cartridge.",
+            "Use of water filter"
+        ]
+    },
+    {
+        "set": [
+            "The use of a water filter extends the service life of your appliance. The water filter filters calcium and pollutants out of the tap water. If you use a water filter and change it on a regular basis, you will need to descale the appliance only once per year. This information is based on an average of six 120 ml coffee beverages per day and six filter changes per year. Only use Melitta\u00ae Pro Aqua filter cartridges for automatic coffeemakers. Observe the instructions on the packaging of the filter cartridge.",
+            " use Melitta\u00ae Pro Aqua filter cartridges for automatic coffeemakers"
+        ]
+    },
+    {
+        "set": [
+            "Technical data\nOperating voltage 220 V to 240 V, 50 Hz to 60 Hz. Power consumption Maximum 1450 W. Pump pressure Static, max. 15 bar. Dimensions (Width Height Depth) 200 mm 352 mm 459 mm. Holding capacity: Bean container 250 g, Water tank 1.5 l. Weight (empty) 7.7 kg. Ambient conditions: Temperature  10\u00b0C to 32\u00b0C, Relative humidity 30% to 80% (non-condensing).",
+            "Technical specification"
+        ]
+    },
+    {
+        "set": [
+            "Technical data\nOperating voltage 220 V to 240 V, 50 Hz to 60 Hz. Power consumption Maximum 1450 W. Pump pressure Static, max. 15 bar. Dimensions (Width Height Depth) 200 mm 352 mm 459 mm. Holding capacity: Bean container 250 g, Water tank 1.5 l. Weight (empty) 7.7 kg. Ambient conditions: Temperature  10\u00b0C to 32\u00b0C, Relative humidity 30% to 80% (non-condensing).",
+            "Temperature, humidity and other suitable physical conditions for the appliance"
+        ]
+    },
+    {
+        "set": [
+            "Technical data\nOperating voltage 220 V to 240 V, 50 Hz to 60 Hz. Power consumption Maximum 1450 W. Pump pressure Static, max. 15 bar. Dimensions (Width Height Depth) 200 mm 352 mm 459 mm. Holding capacity: Bean container 250 g, Water tank 1.5 l. Weight (empty) 7.7 kg. Ambient conditions: Temperature  10\u00b0C to 32\u00b0C, Relative humidity 30% to 80% (non-condensing).",
+            "Weight and dimension"
+        ]
+    },
+    {
+        "set": [
+            "Technical data\nOperating voltage 220 V to 240 V, 50 Hz to 60 Hz. Power consumption Maximum 1450 W. Pump pressure Static, max. 15 bar. Dimensions (Width Height Depth) 200 mm 352 mm 459 mm. Holding capacity: Bean container 250 g, Water tank 1.5 l. Weight (empty) 7.7 kg. Ambient conditions: Temperature  10\u00b0C to 32\u00b0C, Relative humidity 30% to 80% (non-condensing).",
+            "The voltage is 220 V to 240 V"
+        ]
+    },
+    {
+        "set": [
+            "Replacement of the power cable and all other repairs may only be carried out by Melitta\u00ae Customer Service or by an authorised repair shop.",
+            "Melitta\u00ae Customer Service replace items on appliance"
+        ]
+    },
+    {
+        "set": [
+            "Do not use the jug in the microwave. Do not place the jug on a hot stove. Do not use the jug to store dairy products or baby food, as there is a risk of bacterial growth. Do not lay the filled jug on its side, as liquid may escape. Clean the outer casing with a soft, damp cloth.",
+            "precautions for the use of the jug"
+        ]
+    },
+    {
+        "set": [
+            "Do not use the jug in the microwave. Do not place the jug on a hot stove. Do not use the jug to store dairy products or baby food, as there is a risk of bacterial growth. Do not lay the filled jug on its side, as liquid may escape. Clean the outer casing with a soft, damp cloth.",
+            "The jug should not be in the microwave, on a hot stove, or next to diary products or baby food"
+        ]
+    },
+    {
+        "set": [
+            "Depending on water hardness lime scale may build up in the appliance. This increases the appliance\u0092s energy consumption as lime scale on the heating element can prevent the water heating effectively. To avoid damage the appliance must be descaled regularly. The descaling display helps you in this. If the CALC-button ? is permanently lit this shows that the appliance needs to be descaled.",
+            "Limescale increasing appliance's energy consumption"
+        ]
+    },
+    {
+        "set": [
+            "The appliance is pre-set for a high level of water hardness (level 4). You can find out the level of water hardness in your area by asking your local water provider or by using water hardness measuring strips available in the shops. For softer water the descaling display can be adjusted to descale less often: ",
+            "water hardness"
+        ]
+    },
+    {
+        "set": [
+            "The appliance is pre-set for a high level of water hardness (level 4). You can find out the level of water hardness in your area by asking your local water provider or by using water hardness measuring strips available in the shops. For softer water the descaling display can be adjusted to descale less often. Please note: Water hardness cannot be programmed while brewing. The last water hardness level chosen remains even after removing the power cable.",
+            "Do not program the water hardness while brewing"
+        ]
+    },
+    {
+        "set": [
+            "External cleaning\nSwitch off the machine before cleaning and disconnect the power cable. Allow the appliance to cool completely before cleaning it. Clean the parts that come into contact with coffee (jug, filter holder, etc.) after each use. The housing can be cleaned with a soft damp cloth. The jug lid, the filter insert and the swing filter ? can be washed in the dishwasher. Do not use harsh or abrasive cleaning agents.",
+            "Cleaning the external parts or casing of the machine"
+        ]
+    },
+    {
+        "set": [
+            "Remove the lid simply by pressing the seals on the side while lifting the lid.",
+            "removing the lid"
+        ]
+    },
+    {
+        "set": [
+            "Follow the manufacturers instructions regarding amounts and pour the descaler into the water tank. We recommend using Melitta\u00ae \u0084Anti Calc Liquid for Filter Coffee & Aqua Machines\u0093.",
+            "The descaler Melitta\u00ae \u0084Anti Calc Liquid for Filter Coffee & Aqua Machines is recommended"
+        ]
+    },
+    {
+        "set": [
+            "The descaling process will now run automatically. To remove even stubborn limescale the descaling process takes 25 minutes.",
+            "It takes 25 minutes to remove tough limescale"
+        ]
+    },
+    {
+        "set": [
+            "When the descaling process is completed the light on the CALC button will go off. The appliance will turn off automatically. At the end of the descaling process, the appliance should be rinsed twice through, using the maximum amount of water without coffee. This will remove any remaining limescale deposits.",
+            "The appliance turns off automatically after the descaling program ends"
+        ]
+    },
+    {
+        "set": [
+            "When the descaling process is completed the light on the CALC button will go off. The appliance will turn off automatically. At the end of the descaling process, the appliance should be rinsed twice through, using the maximum amount of water without coffee. This will remove any remaining limescale deposits.",
+            "Rinse the appliance with water twice at the end of the descaling program"
+        ]
+    },
+    {
+        "set": [
+            "Electric appliances do not go in the household bin. Dispose of the appliance in an environmentally friendly way using suitable collection systems",
+            "Do not throw away the appliance in the household bin"
+        ]
+    },
+    {
+        "set": [
+            "Do not open the filter holder during brewing. Do not use the appliance if the power cable is damaged. Do not allow the power cable to come into contact with liquids. Never immerse the appliance in water.",
+            "Do not use a damaged power cable nor should you allow th epower cable to touch water"
+        ]
+    },
+    {
+        "set": [
+            "Do not clean the parts that come into contact with food with aggressive cleaning agents or scouring cream. Remove detergent residues with clean water. Further information on cleaning can be found under \"Cleaning and care\".",
+            "Clean the parts that come in contact with food with mild cleaning products"
+        ]
+    },
+    {
+        "set": [
+            "To prevent damage to the glass flask, do not use hard or sharpedged objects (e. g. cutlery, dishwashing brushes or similar) for stirring or cleaning and do not fill with ice cubes or carbonated liquids. Do not subject the glass flask to high temperature fluctuations.",
+            "Prevent damage to the flask jar by not using sharp objects"
+        ]
+    },
+    {
+        "set": [
+            "Fill the water tank with the desired amount of water using the therm jug. With the help of the water level display on the tank ? you can choose the correct number of cups. Small cup symbol = approx. 85 ml coffee per cup, large cup symbol = approx. 125 ml coffee per cup.",
+            "Desired amount of water should be filled into the water tank"
+        ]
+    },
+    {
+        "set": [
+            "Fill the water tank with the desired amount of water using the therm jug. With the help of the water level display on the tank ? you can choose the correct number of cups. Small cup symbol = approx. 85 ml coffee per cup, large cup symbol = approx. 125 ml coffee per cup.",
+            "Small cup symbol means 85 ml coffee per cup, large cup symbol means 125 ml coffee per cup."
+        ]
+    },
+    {
+        "set": [
+            "Put the ground coffee into the filter. The amount depends on your personal taste. We recommend using 6 g of ground coffee per large cup",
+            "Use 6 g of ground coffee per large cup"
+        ]
+    },
+    {
+        "set": [
+            "The appliance turns off automatically 15 minutes after it has been turned on. This avoids unnecessary use of electricity and saves energy. You can of course turn the machine off manually at any time. The drip stop ? prevents your coffee from dripping, when you remove the jug from the appliance.",
+            "The appliance saves energy by turning of 15 minutes after it was turned on"
+        ]
+    },
+    {
+        "set": [
+            "The appliance turns off automatically 15 minutes after it has been turned on. This avoids unnecessary use of electricity and saves energy. You can of course turn the machine off manually at any time. The drip stop ? prevents your coffee from dripping, when you remove the jug from the appliance.",
+            "The machine can be turned off manually"
+        ]
+    },
+    {
+        "set": [
+            "The appliance housing and the external parts of the therm jug can be cleaned with a soft damp cloth. The swivel filter is detachable ? and can be cleaned in the dishwasher. The therm jug should be rinsed with hot water after each use. Stubborn coffee stains can be removed with \u0093Perfect Clean Accessories\u0094 from MelittaR. Do not use hard or abrasive objects, which could damage the glass flask.",
+            "clean the external parts of the therm jug with a soft damp cloth"
+        ]
+    },
+    {
+        "set": [
+            "The appliance housing and the external parts of the therm jug can be cleaned with a soft damp cloth. The swivel filter is detachable ? and can be cleaned in the dishwasher. The therm jug should be rinsed with hot water after each use. Stubborn coffee stains can be removed with \u0093Perfect Clean Accessories\u0094 from MelittaR. Do not use hard or abrasive objects, which could damage the glass flask.",
+            "Use \u0093Perfect Clean Accessories\u0094 from MelittaR to remove difficult coffee stains"
+        ]
+    },
+    {
+        "set": [
+            "The appliance housing and the external parts of the therm jug can be cleaned with a soft damp cloth. The swivel filter is detachable ? and can be cleaned in the dishwasher. The therm jug should be rinsed with hot water after each use. Stubborn coffee stains can be removed with \u0093Perfect Clean Accessories\u0094 from MelittaR. Do not use hard or abrasive objects, which could damage the glass flask.",
+            "Rinse the therm jug with hot water often"
+        ]
+    },
+    {
+        "set": [
+            "Packaging materials are raw materials and can be recycled. Please recycle them.",
+            "Recycle cartons and boxes"
+        ]
+    },
+    {
+        "set": [
+            "Risk of burns and scalds. Escaping fluids and steam may be very hot. The nozzles on the outlet can also become very hot.",
+            "Beware of hot air coming out of the nozzle"
+        ]
+    },
+    {
+        "set": [
+            "You can very simply navigate through the menu with the \"Rotary Switch\". Press the \"Rotary Switch\" for longer than 2 seconds to call up the Programmes menu. You can select an entry by turn\u00ading the \"Rotary Switch\".  By pressing briefly, you can con\u00adfirm a selection or leave a menu that has no available options.",
+            "Use 'rotary switch'  to navigate the menu app"
+        ]
+    },
+    {
+        "set": [
+            "You can very simply navigate through the menu with the \"Rotary Switch\". Press the \"Rotary Switch\" for longer than 2 seconds to call up the Programmes menu. You can select an entry by turn\u00ading the \"Rotary Switch\".  By pressing briefly, you can con\u00adfirm a selection or leave a menu that has no available options.",
+            "Call up the Programmes menu by pressing 'Rotary switch' for more than two seconds"
+        ]
+    },
+    {
+        "set": [
+            "Remove the packaging material, the adhe\u00adsive strips and the protective films from the appliance. Please keep the original packaging. The appliance has been tested in the factory to ensure that it functions perfectly. Therefore, the appliance may still contain traces of coffee and water.",
+            "Do not dispose the original packaging"
+        ]
+    },
+    {
+        "set": [
+            "Install the appliance in a dry room. Install the appliance on a stable, flat and dry surface. The surface may not be hot. The appliance may not be placed in the vicinity of sinks or the like. Install the appliance at a sufficient distance (approx. 10 cm) from the wall and other objects. The space above the appliance should be at least 20 cm. Route the power cable so it does not lie over edges or cannot be damaged by hot surfaces. ",
+            "Right installation of the appliance"
+        ]
+    },
+    {
+        "set": [
+            "Set the water hardness. You can determine the water hardness with the enclosed test strip. Observe the instructions on the test strip and the information in the table in section 8.9, page 26",
+            "Determining and setting the water hardness"
+        ]
+    },
+    {
+        "set": [
+            "Pour the first two beverages away after\ninitial start-up",
+            "Throw away initial 2 cups of coffee after setup"
+        ]
+    },
+    {
+        "set": [
+            "The quality of the tap water largely deter\u00admines the flavour of the coffee. Fill the water tank only with fresh, cold tap water that has not been carbonated. Change the tap water daily. Please observe the maxi\u00admum filling level.",
+            "The coffee is best made with fresh, cold tap water"
+        ]
+    },
+    {
+        "set": [
+            "The 2-chamber bean container allows you to use two varieties of coffee beans. You switch between the bean chambers with the \"Bean Select\" tilt lever.",
+            "Two types of coffee beans can be used and switch between the chambers using the 'Bean select' lever"
+        ]
+    },
+    {
+        "set": [
+            "Always use cold milk. Only fill as much milk into the milk container as will be used immediately. You can store the milk container in the refrigerator.",
+            "Put just the necessary amount of cold milk in the milk container which can be stored in the refrigerator"
+        ]
+    },
+    {
+        "set": [
+            "The water tank should be sufficiently full. If the filling level is too low, the appliance requests you to refill it. There should be sufficient coffee beans in the 2-chamber bean container. The appliance asks you to refill only if there are no more coffee beans in the bean chamber and the grinder has ground itself empty.  When preparing a beverage with milk, connect the filled milk container or a commercially available milk pack. The appliance does not indicate a lack of milk. ",
+            "Fill the water tank sufficiently"
+        ]
+    },
+    {
+        "set": [
+            "The water tank should be sufficiently full. If the filling level is too low, the appliance requests you to refill it. There should be sufficient coffee beans in the 2-chamber bean container. The appliance asks you to refill only if there are no more coffee beans in the bean chamber and the grinder has ground itself empty.  When preparing a beverage with milk, connect the filled milk container or a commercially available milk pack. The appliance does not indicate a lack of milk. ",
+            "Fill the bean chambers with enough coffee beans"
+        ]
+    },
+    {
+        "set": [
+            "Preparing beverages with recipes \nYou can prepare other beverage speciali\u00acties with the appliance, e.g. an Americano.  You access the list of recipes by pressing the \"my recipes\" button briefly several times.  Alternatively you can open the list of recipes directly by pressing the \"my reci\u00acpes\" button for longer than 2 seconds.  After you select a recipe, the beverage dispensing starts immediately.",
+            "Beverages can be prepared using recipes from the machine"
+        ]
+    },
+    {
+        "set": [
+            "You can change the default settings for the brewing strength, the beverage quantity and the temperature.  For example, to change the brewing strength for an espresso, you need to navi\u00adgate to the Direct keys > Espresso > Strength menu and select the required brewing strength.  The modified default settings are stored. You can change the default settings at any time, however.",
+            "Changing the default settings of the machine"
+        ]
+    },
+    {
+        "set": [
+            "You can change the default settings for the brewing strength, the beverage quantity and the temperature.  For example, to change the brewing strength for an espresso, you need to navi\u00adgate to the Direct keys > Espresso > Strength menu and select the required brewing strength.  The modified default settings are stored. You can change the default settings at any time, however.",
+            "hange the default settings for the brewing strength, the beverage quantity and the temperature"
+        ]
+    },
+    {
+        "set": [
+            "The My Coffee function allows you to save individual settings for up to six persons in a user profile. This allows you to choose your individual preferences in terms of brewing strength, beverage quantity and temperature.",
+            "At most 6 people can have individual user profiles with the my coffee function"
+        ]
+    },
+    {
+        "set": [
+            "The My Coffee function allows you to save individual settings for up to six persons in a user profile. This allows you to choose your individual preferences in terms of brewing strength, beverage quantity and temperature.",
+            "People can chose their personal coffee preference"
+        ]
+    },
+    {
+        "set": [
+            "The user profile is automatically activated after the new user name is entered. You can also deactivate a user profile if you do not want to use it. Navigate to the My Coffee > User name > Enabled/disabled menu, to activate or deactivate the user profile. ",
+            "Activating and deactivating a user profile"
+        ]
+    },
+    {
+        "set": [
+            "As soon as the user profile is set up, you can select the personal settings for the brewing strength, the beverage quantity and the temperature.  For example, to select the beverage quan\u00actity for a cappuccino, you need to navigate to the My Coffee > User name > Cappuccino > Coffee amount menu and select the required beverage quantity.  The personal settings are stored. You can change the settings at any time, however.",
+            "Selecting the personal settings of a user"
+        ]
+    },
+    {
+        "set": [
+            "You can change the language for the display in the menu under Settings> Language.  You can change the time in the menu under Settings > Clock.  If you want to prevent the time being shown on the display, set the time to 00:00.",
+            "Changing the language and clock time of the machine"
+        ]
+    },
+    {
+        "set": [
+            "Energy save mode lowers the heating temperature and switches off the illumination. In the menu under Settings > Energy save mode, you can set the time after which the appliance should switch to energy save mode. You can select defined values between 3 and 240 minutes.  You cannot deactivate energy save mode. After 4 hours without being operated at the latest, the appliance switches to energy save mode.  If the appliance is in energy save mode, you can wake it up by pressing the \"Rotary Switch\" briefly.",
+            "Settings for energy saving mode, although it cannot be deactivated"
+        ]
+    },
+    {
+        "set": [
+            "If the appliance is not operated for a long time, it switches off automatically after a specified time. You can set both a period until switch-off and also set a time. The appliance will switch itself off at the set time in all cases.  In the menu under Settings > Auto OFF > OFF after \u0085, you can set after what time period the appliance should switch itself off. You can select defined values between 9 and 480 minutes.  You cannot deactivate the function OFF after \u0085 . After 8 hours without being oper\u00acated at the latest, the appliance switches off.  In the menu under Settings > Auto OFF > OFF at \u0085 , you can set the time at which the appliance should be switched off.  If you want to deactivate the OFF at \u0085 function, you need to set the time to 00:00. The function is set to deactivated at the factory.",
+            "The appliance switches off by itself after period of inactivity"
+        ]
+    },
+    {
+        "set": [
+            "If the appliance is not operated for a long time, it switches off automatically after a specified time. You can set both a period until switch-off and also set a time. The appliance will switch itself off at the set time in all cases.  In the menu under Settings > Auto OFF > OFF after \u0085, you can set after what time period the appliance should switch itself off. You can select defined values between 9 and 480 minutes.  You cannot deactivate the function OFF after \u0085 . After 8 hours without being oper\u00acated at the latest, the appliance switches off.  In the menu under Settings > Auto OFF > OFF at \u0085 , you can set the time at which the appliance should be switched off.  If you want to deactivate the OFF at \u0085 function, you need to set the time to 00:00. The function is set to deactivated at the factory.",
+            "Switching off the appliance"
+        ]
+    },
+    {
+        "set": [
+            "The appliance performs rinsing when switched on and off.  In the menu under Settings > Rinse at OFF, you can deactivate the switch-off rinsing function or activate it again.  We recommend that you do not perma\u00adnently deactivate the switch-off rinsing function.",
+            "Rinsing is done when the machine switches on and off"
+        ]
+    },
+    {
+        "set": [
+            "In the menu under Settings > Factory settings, you can reset the appliance to factory settings. In this case, all personal settings are lost, including the settings in the My Coffee menu.",
+            "reset the appliance to factory settings"
+        ]
+    },
+    {
+        "set": [
+            "The Statistics menu provides information on the number of beverages prepared. The System menu provides information on the software version. Furthermore, you have access to the venting function (see section 9, page 27).",
+            "Information on the beverages and the software version"
+        ]
+    },
+    {
+        "set": [
+            "In the menu under Settings > Care > Rinsing, you can rinse the internal parts of the coffee system and the nozzles on the outlet.  Place a vessel beneath the outlet before you start rinsing. During rinsing, the water used to rinse the internal parts enters the drip tray.",
+            "Rinsing the inner part of the coffee machine"
+        ]
+    }
+]

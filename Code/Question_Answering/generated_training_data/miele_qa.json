@@ -1,0 +1,1094 @@
+[
+    {
+        "Context": "Please do not, therefore, dispose of your old appliance with household waste. Instead, please make use of officially designated collection and disposal points to dispose of and recycle electrical and electronic appliances in your local community, with your dealer or with Miele, free of charge.",
+        "Question": "How can I dispose my old appliance?",
+        "Answer": {
+            "text": [
+                "make use of officially designated collection and disposal points"
+            ],
+            "answer_start": [
+                94
+            ]
+        }
+    },
+    {
+        "Context": "Children aged 8 and older may only use the coffee machine without supervision if they have been shown how to use it in a safe manner. Children aged 8 and older must be aware of the potential dangers caused by incorrect operation.",
+        "Question": "Can children use the coffee Machine?",
+        "Answer": {
+            "text": [
+                "Children aged 8 and older may only use the coffee machine without supervision if they have been shown how to use it in a safe manner"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "Young children must not be allowed to clean the coffee machine at all. Cleaning may only be carried out by children 8 years of age or older under the supervision of an adult.",
+        "Question": "Can children clean the coffee Machine?",
+        "Answer": {
+            "text": [
+                "children 8 years of age or older under the supervision"
+            ],
+            "answer_start": [
+                107
+            ]
+        }
+    },
+    {
+        "Context": "Installation work or repairs should only be carried out by a Miele authorised technician.",
+        "Question": "Who can install or repair?",
+        "Answer": {
+            "text": [
+                "Miele authorised technician"
+            ],
+            "answer_start": [
+                61
+            ]
+        }
+    },
+    {
+        "Context": "A minimum installation height of 850 mm must be observed.",
+        "Question": "What is the minimum installation height?",
+        "Answer": {
+            "text": [
+                "850 mm"
+            ],
+            "answer_start": [
+                33
+            ]
+        }
+    },
+    {
+        "Context": "Change the water every day to prevent a build-up of bacteria.",
+        "Question": "How often should the water be changed?",
+        "Answer": {
+            "text": [
+                "every day"
+            ],
+            "answer_start": [
+                17
+            ]
+        }
+    },
+    {
+        "Context": "Do not use carbonated water.",
+        "Question": "Can I use carbonated water?",
+        "Answer": {
+            "text": [
+                "Do not use carbonated water"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "Do not use coffee beans which have been treated with caramel, sugar or other substances including sugary liquids. Sugar will\ndamage the coffee machine.",
+        "Question": "Can I use coffee beans which have been treated with caramel?",
+        "Answer": {
+            "text": [
+                "Do not use coffee beans which have been treated with caramel, sugar or other substances including sugary liquids."
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "Only use milk without additives. Additives in milk usually contain sugar and this will stick to the milk pipework.",
+        "Question": "What type of milk can be used?",
+        "Answer": {
+            "text": [
+                "milk without additives"
+            ],
+            "answer_start": [
+                9
+            ]
+        }
+    },
+    {
+        "Context": "Clean the coffee machine and the milk flask daily, particularly before using them for the first time.",
+        "Question": "How often should the milk flask be cleaned?",
+        "Answer": {
+            "text": [
+                "daily"
+            ],
+            "answer_start": [
+                44
+            ]
+        }
+    },
+    {
+        "Context": "Clean the coffee machine and the milk flask daily, particularly before using them for the first time.",
+        "Question": "How often should the coffee machine be cleaned?",
+        "Answer": {
+            "text": [
+                "daily"
+            ],
+            "answer_start": [
+                44
+            ]
+        }
+    },
+    {
+        "Context": "Do not use a steam cleaner to clean this machine. Steam could reach electrical components and cause a short circuit.",
+        "Question": "Can I use steam cleaner to clean the machine?",
+        "Answer": {
+            "text": [
+                "Do not use a steam cleaner to clean this machine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "Do not use a steam cleaner to clean this machine. Steam could reach electrical components and cause a short circuit.",
+        "Question": "Why can't I use a steam cleaner to clean the machine",
+        "Answer": {
+            "text": [
+                "Steam could reach electrical components and cause a short circuit"
+            ],
+            "answer_start": [
+                50
+            ]
+        }
+    },
+    {
+        "Context": "Used coffee grounds should be disposed of with the organic rubbish or on the compost heap. Do not empty them down the sink,\nas they could block it.",
+        "Question": "Can I empty used coffee ground down the sink?",
+        "Answer": {
+            "text": [
+                "Do not empty them down the sink"
+            ],
+            "answer_start": [
+                91
+            ]
+        }
+    },
+    {
+        "Context": "Do not use sticky notes, transparent adhesive tape, masking tape or other types of adhesive on the stainless steel surfaces. These will\ndamage the stainless steel surfaces, causing them to lose their dirt repellent protective coating.",
+        "Question": "Can I use sticky notes on the steel surfaces? ",
+        "Answer": {
+            "text": [
+                "Do not use sticky notes, transparent adhesive tape, masking tape or other types of adhesive on the stainless steel surfaces."
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "To select a menu option, keep pressing the arrow buttons ? and ? until the option you want is highlighted.",
+        "Question": "How do I select menu option?",
+        "Answer": {
+            "text": [
+                "keep pressing the arrow buttons ? and ? until the option you want is highlighted."
+            ],
+            "answer_start": [
+                25
+            ]
+        }
+    },
+    {
+        "Context": "To select a menu, touch the relevant sensor",
+        "Question": "How do I select menu?",
+        "Answer": {
+            "text": [
+                "touch the relevant sensor"
+            ],
+            "answer_start": [
+                18
+            ]
+        }
+    },
+    {
+        "Context": "To exit the current menu, touch the curved arrow sensor.",
+        "Question": "How do I exit current menu?",
+        "Answer": {
+            "text": [
+                "touch the curved arrow sensor."
+            ],
+            "answer_start": [
+                26
+            ]
+        }
+    },
+    {
+        "Context": "You can connect your coffee machine to your home WiFi network.",
+        "Question": "Can the coffee machine be connected to WiFi?",
+        "Answer": {
+            "text": [
+                "You can connect your coffee machine to your home WiFi network"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "Connecting your coffee machine to your WiFi network will increase energy consumption, even when the machine\nis switched off.",
+        "Question": "What is the effect of connecting the coffee machine to WiFi?",
+        "Answer": {
+            "text": [
+                "increase energy consumption"
+            ],
+            "answer_start": [
+                57
+            ]
+        }
+    },
+    {
+        "Context": "The Miele App is available to download free of charge from the Apple App Store\u00ae or from the Google Play Store\u0099.",
+        "Question": "Where can I download Miele App?",
+        "Answer": {
+            "text": [
+                "Apple App Store\u00ae or from the Google Play Store\u0099."
+            ],
+            "answer_start": [
+                63
+            ]
+        }
+    },
+    {
+        "Context": "The central spout cannot be manually adjusted.",
+        "Question": "Can I manually adjust the central spout?",
+        "Answer": {
+            "text": [
+                "The central spout cannot be manually adjusted."
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "Fill the milk flask with milk up to a maximum of 2 cm below the rim. Seal the milk flask with the lid.",
+        "Question": "What is the maximum level to fill the milk flask?",
+        "Answer": {
+            "text": [
+                "2 cm below the rim"
+            ],
+            "answer_start": [
+                49
+            ]
+        }
+    },
+    {
+        "Context": "You can dispense 2 portions of a drink into 1 large cup or into 2 cups at the same time. You can make several cups of coffee one after the other automatically with the Coffee pot function (maximum\nof 1 litre).",
+        "Question": "Can I dispense 2 portions of a drink into 1 large cup?",
+        "Answer": {
+            "text": [
+                "You can dispense 2 portions of a drink into 1 large cup"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "You can dispense 2 portions of a drink into 1 large cup or into 2 cups at the same time. You can make several cups of coffee one after the other automatically with the Coffee pot function (maximum\nof 1 litre).",
+        "Question": "Can I dispense 2 portions of a drink into 2 cups?",
+        "Answer": {
+            "text": [
+                "You can dispense 2 portions of a drink into 1 large cup"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "You can dispense 2 portions of a drink into 1 large cup or into 2 cups at the same time. You can make several cups of coffee one after the other automatically with the Coffee pot function (maximum\nof 1 litre).",
+        "Question": "Can I make several cups of coffee?",
+        "Answer": {
+            "text": [
+                "You can make several cups of coffee one after the other automatically"
+            ],
+            "answer_start": [
+                89
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature of Japanese tea?",
+        "Answer": {
+            "text": [
+                "approx. 65 \u00b0C"
+            ],
+            "answer_start": [
+                262
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature ofwhite tea?",
+        "Answer": {
+            "text": [
+                "approx. 70 \u00b0C"
+            ],
+            "answer_start": [
+                480
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature of green tea?",
+        "Answer": {
+            "text": [
+                "approx. 80 \u00b0C"
+            ],
+            "answer_start": [
+                728
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature of black tea?",
+        "Answer": {
+            "text": [
+                "approx. 97 \u00b0C"
+            ],
+            "answer_start": [
+                948
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature of herbal tea?",
+        "Answer": {
+            "text": [
+                "approx. 97 \u00b0C"
+            ],
+            "answer_start": [
+                948
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature of Chai latte?",
+        "Answer": {
+            "text": [
+                "approx. 97 \u00b0C"
+            ],
+            "answer_start": [
+                948
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the dispensed temperature of fruit tea?",
+        "Answer": {
+            "text": [
+                "approx. 97 \u00b0C"
+            ],
+            "answer_start": [
+                948
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of Japanese tea?",
+        "Answer": {
+            "text": [
+                "approx. 1.5 minutes"
+            ],
+            "answer_start": [
+                291
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of white tea?",
+        "Answer": {
+            "text": [
+                "approx. 2 minutes"
+            ],
+            "answer_start": [
+                509
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of green tea?",
+        "Answer": {
+            "text": [
+                "approx. 2.5 minutes"
+            ],
+            "answer_start": [
+                757
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of black tea?",
+        "Answer": {
+            "text": [
+                "approx. 3 minutes"
+            ],
+            "answer_start": [
+                977
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of Chia latte?",
+        "Answer": {
+            "text": [
+                "approx. 3 minutes"
+            ],
+            "answer_start": [
+                977
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of herbal tea?",
+        "Answer": {
+            "text": [
+                "approx. 8 minutes"
+            ],
+            "answer_start": [
+                1389
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is the brewing time of fruit tea?",
+        "Answer": {
+            "text": [
+                "approx. 8 minutes"
+            ],
+            "answer_start": [
+                1389
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What exactly is white tea?",
+        "Answer": {
+            "text": [
+                "a green tea where only the young buds of the tea plant are used and processed very gently"
+            ],
+            "answer_start": [
+                325
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "Where does green tea get its colour from?",
+        "Answer": {
+            "text": [
+                "the leaves of the tea plant"
+            ],
+            "answer_start": [
+                565
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "How does black tea get its characteristic taste?",
+        "Answer": {
+            "text": [
+                "the fermentation of tea leaves"
+            ],
+            "answer_start": [
+                839
+            ]
+        }
+    },
+    {
+        "Context": "The coffee machine is not intended for commercial or scientific purposes. Temperatures given are approximate and can vary according to ambient conditions. Japanese tea is a high-quality green tea which boasts a fine, fresh, \u0093green\u0094 taste. Dispensed temperature: approx. 65 \u00b0C, brewing time: approx. 1.5 minutes. White tea is a green tea where only the young buds of the tea plant are used and processed very gently. White tea has a particularly mild taste. Dispensed temperature: approx. 70 \u00b0C, brewing time: approx. 2 minutes. Green tea gets its green colour from the leaves of the tea plant. The tea leaves are either roasted or steamed depending on the region. Green tea can be infused multiple times. Dispensed temperature: approx. 80 \u00b0C, brewing time: approx. 2.5 minutes. Black tea gets its dark colour and characteristic taste from the fermentation of tea leaves. Black tea can be enjoyed with a little lemon or milk. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Chai latte has its origins in traditional Ayurveda medicine as a black tea with typically Indian spices and milk. The milk mellows the spices and tops off the flavour experience. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 3 minutes. Herbal tea is an aromatic infusion drink made up of dried leaves or fresh parts of plants. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes. Fruit tea is made from dried pieces of fruit and/or parts of plants, e.g. rose hip. The taste of the drink varies according to which plants are used and how they are blended. Lots of fruit teas are also flavoured. Dispensed temperature: approx. 97 \u00b0C, brewing time: approx. 8 minutes.",
+        "Question": "What is a recommended method of enjoying black tea?",
+        "Answer": {
+            "text": [
+                "with a little lemon or milk"
+            ],
+            "answer_start": [
+                896
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "How can I adjust the dispensing temperatures?",
+        "Answer": {
+            "text": [
+                "by customising the brewing temperature"
+            ],
+            "answer_start": [
+                72
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "What is the amount of water required for tea?",
+        "Answer": {
+            "text": [
+                "adjust the amount of water according to the type of tea and the size of the cup"
+            ],
+            "answer_start": [
+                396
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "What is the largest quantity of tea that can be made with the teapot function?",
+        "Answer": {
+            "text": [
+                "1 litre"
+            ],
+            "answer_start": [
+                791
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "What is the amount of tea required for brewing?",
+        "Answer": {
+            "text": [
+                "varies from one type of tea to another"
+            ],
+            "answer_start": [
+                257
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "How to make stronger coffee?",
+        "Answer": {
+            "text": [
+                "The greater the quantity, the stronger the coffee."
+            ],
+            "answer_start": [
+                1072
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "How much coffee beans can the machine grind? ",
+        "Answer": {
+            "text": [
+                "7.5\u009612.5 g of coffee beans per cup"
+            ],
+            "answer_start": [
+                1036
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "Is there an option to create individual profiles?",
+        "Answer": {
+            "text": [
+                "you can create individual profiles to cater for different tastes and preferences"
+            ],
+            "answer_start": [
+                1177
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "How am I notified of the drink dispensing when using MobileStart?",
+        "Answer": {
+            "text": [
+                "with acoustic and optical signals"
+            ],
+            "answer_start": [
+                1344
+            ]
+        }
+    },
+    {
+        "Context": "You can adjust the dispensing temperatures used for the individual teas by customising the brewing temperature (see \u0093Parameters \u0096 Brewing temperature\u0094). A temperature increment of approximately 2 \u00b0C makes a noticeable difference. The amount of tea required varies from one type of tea to another. Always follow the recommendations of the manufacturer on the packaging or of the retailer. You can adjust the amount of water according to the type of tea and the size of the cup (see \u0093Portion size\u0094). You can choose between the following options:- Automatic: The TeaTimer starts automatically once the water has been dispensed. - Manual: Once the water has been dispensed, you have the option of starting the TeaTimer. The Teapot function allows you to make a large quantity of tea (maximum of 1 litre). A maximum portion size can be programmed for each type of drink. Dispensing stops once this has been reached. The maximum possible portion size is then saved by the machine for this type of drink. The coffee machine can grind and brew 7.5\u009612.5 g of coffee beans per cup. The greater the quantity, the stronger the coffee. In addition to the Miele drinks menu (Miele profile), you can create individual profiles to cater for different tastes and preferences. If you are making a drink with MobileStart, you will be notified of drink dispensing with acoustic and optical signals. These signals cannot be changed or switched off.",
+        "Question": "Can the acoustic and optical signals be changed when dispensing?",
+        "Answer": {
+            "text": [
+                "These signals cannot be changed or switched off"
+            ],
+            "answer_start": [
+                1379
+            ]
+        }
+    },
+    {
+        "Context": "For coffee drinks that use milk, you can not only set the amount of espresso or coffee but also the amount of milk or milk froth to be dispensed with these drinks.",
+        "Question": "Can I set the amount of milk dispensed with the coffee?",
+        "Answer": {
+            "text": [
+                "you can not only set the amount of espresso or coffee but also the amount of milk or milk froth to be dispensed with these drinks"
+            ],
+            "answer_start": [
+                33
+            ]
+        }
+    },
+    {
+        "Context": "Only adjust the grinder one setting at a time.\nStart making a new drink to grind beans again. Adjust the grinder setting one setting at a time again.",
+        "Question": "Can the grinder be adjusted for more than 1 setting? ",
+        "Answer": {
+            "text": [
+                "Only adjust the grinder one setting at a time"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "The brewing temperature must be adapted to the beans you are using and how they are roasted. It also varies depending on whether you are making\nespresso or coffee.",
+        "Question": "What is the brewing temperature of the coffee?",
+        "Answer": {
+            "text": [
+                "The brewing temperature must be adapted to the beans you are using and how they are roasted"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "You will only be able to use MobileStart if Miele@home has been set up for your coffee machine.",
+        "Question": "What is required to use MobileStart?",
+        "Answer": {
+            "text": [
+                "Miele@home"
+            ],
+            "answer_start": [
+                44
+            ]
+        }
+    },
+    {
+        "Context": "Milk is not cooled in the milk container. If you want to start making a drink with milk using the app, make sure that the milk is sufficiently cold (< 10 \u00b0C).",
+        "Question": "What temperature should the milk be to make a drink using the app?",
+        "Answer": {
+            "text": [
+                "< 10 \u00b0C"
+            ],
+            "answer_start": [
+                149
+            ]
+        }
+    },
+    {
+        "Context": "If the coffee machine is being operated manually, it cannot be operated via the app. Operation on the appliance takes precedence. You can select the language (and location variant of that language) for all display text. The coffee machine will not switch on at the required time if you have activated the system lock. The timer settings are deactivated.",
+        "Question": "Can I operate the machoine manually and with the app simultaneously?",
+        "Answer": {
+            "text": [
+                "If the coffee machine is being operated manually, it cannot be operated via the app"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "If the coffee machine is being operated manually, it cannot be operated via the app. Operation on the appliance takes precedence. You can select the language (and location variant of that language) for all display text. The coffee machine will not switch on at the required time if you have activated the system lock. The timer settings are deactivated.",
+        "Question": "Can I change the language for the display text?",
+        "Answer": {
+            "text": [
+                "You can select the language (and location variant of that language) for all display text"
+            ],
+            "answer_start": [
+                130
+            ]
+        }
+    },
+    {
+        "Context": "If the coffee machine is being operated manually, it cannot be operated via the app. Operation on the appliance takes precedence. You can select the language (and location variant of that language) for all display text. The coffee machine will not switch on at the required time if you have activated the system lock. The timer settings are deactivated.",
+        "Question": "Will the coffee machine switch on if the system lock is activated?",
+        "Answer": {
+            "text": [
+                "The coffee machine will not switch on at the required time if you have activated the system lock. "
+            ],
+            "answer_start": [
+                220
+            ]
+        }
+    },
+    {
+        "Context": "Do not use carbonated water.",
+        "Question": "Can I use carbonated water?",
+        "Answer": {
+            "text": [
+                "Do not use carbonated water."
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "The general pipework is rinsed much less frequently or not at all. The milk pipework is not rinsed until around 1 hour after milk was last dispensed.",
+        "Question": "When is the milk pipeline rinsed?",
+        "Answer": {
+            "text": [
+                "around 1 hour after milk was last dispensed"
+            ],
+            "answer_start": [
+                105
+            ]
+        }
+    },
+    {
+        "Context": "You can lock the coffee machine to prevent it being used without your knowledge, by children, for example.",
+        "Question": "Can the coffee machin ebe locked?",
+        "Answer": {
+            "text": [
+                "You can lock the coffee machine to prevent it being used"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on. To start making a drink via the app, MobileStart must be activated as well. The RemoteUpdate function allows the software on your coffee machine to be updated. If an update is available for your coffee machine, it will automatically download it. Updates will not be installed automatically. They must be initiated manually. You can install the update immediately or postpone this until later. When the coffee machine is switched on again, you will be reminded about the update. You can reset the coffee machine to its factory default settings. You can reset the coffee machine to its factory default settings.",
+        "Question": "What is needed to make a drink via the app?",
+        "Answer": {
+            "text": [
+                "MobileStart"
+            ],
+            "answer_start": [
+                147
+            ]
+        }
+    },
+    {
+        "Context": "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on. To start making a drink via the app, MobileStart must be activated as well. The RemoteUpdate function allows the software on your coffee machine to be updated. If an update is available for your coffee machine, it will automatically download it. Updates will not be installed automatically. They must be initiated manually. You can install the update immediately or postpone this until later. When the coffee machine is switched on again, you will be reminded about the update. You can reset the coffee machine to its factory default settings. You can reset the coffee machine to its factory default settings.",
+        "Question": "Can the machine settings be changed on the app?",
+        "Answer": {
+            "text": [
+                "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on. To start making a drink via the app, MobileStart must be activated as well. The RemoteUpdate function allows the software on your coffee machine to be updated. If an update is available for your coffee machine, it will automatically download it. Updates will not be installed automatically. They must be initiated manually. You can install the update immediately or postpone this until later. When the coffee machine is switched on again, you will be reminded about the update. You can reset the coffee machine to its factory default settings. You can reset the coffee machine to its factory default settings.",
+        "Question": "Are updates for the coffee machine automatically downloaded?",
+        "Answer": {
+            "text": [
+                "If an update is available for your coffee machine, it will automatically download it"
+            ],
+            "answer_start": [
+                270
+            ]
+        }
+    },
+    {
+        "Context": "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on. To start making a drink via the app, MobileStart must be activated as well. The RemoteUpdate function allows the software on your coffee machine to be updated. If an update is available for your coffee machine, it will automatically download it. Updates will not be installed automatically. They must be initiated manually. You can install the update immediately or postpone this until later. When the coffee machine is switched on again, you will be reminded about the update. You can reset the coffee machine to its factory default settings. You can reset the coffee machine to its factory default settings.",
+        "Question": "Are updates for the coffee machine automatically installed?",
+        "Answer": {
+            "text": [
+                "Updates will not be installed automatically. They must be initiated manually"
+            ],
+            "answer_start": [
+                356
+            ]
+        }
+    },
+    {
+        "Context": "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on. To start making a drink via the app, MobileStart must be activated as well. The RemoteUpdate function allows the software on your coffee machine to be updated. If an update is available for your coffee machine, it will automatically download it. Updates will not be installed automatically. They must be initiated manually. You can install the update immediately or postpone this until later. When the coffee machine is switched on again, you will be reminded about the update. You can reset the coffee machine to its factory default settings. You can reset the coffee machine to its factory default settings.",
+        "Question": "Do I always have to start the update immediately after it is downloaded?",
+        "Answer": {
+            "text": [
+                "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "Context": "You can change the coffee machine settings, for example, in the Miele app when remote control is switched on. To start making a drink via the app, MobileStart must be activated as well. The RemoteUpdate function allows the software on your coffee machine to be updated. If an update is available for your coffee machine, it will automatically download it. Updates will not be installed automatically. They must be initiated manually. You can install the update immediately or postpone this until later. When the coffee machine is switched on again, you will be reminded about the update. You can reset the coffee machine to its factory default settings. You can reset the coffee machine to its factory default settings.",
+        "Question": "Can the machine be returned to its default settings?",
+        "Answer": {
+            "text": [
+                "You can reset the coffee machine to its factory default settings."
+            ],
+            "answer_start": [
+                588
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "Why should the machine be cleaned regularly?",
+        "Answer": {
+            "text": [
+                "Milk residues can go off and can block the milk pipework"
+            ],
+            "answer_start": [
+                96
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "How often should the drip tray be cleaned?",
+        "Answer": {
+            "text": [
+                "every day"
+            ],
+            "answer_start": [
+                194
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "How often should the waste container be cleaned?",
+        "Answer": {
+            "text": [
+                "every day"
+            ],
+            "answer_start": [
+                194
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "How should the central spout's stainless steel be cleaned?",
+        "Answer": {
+            "text": [
+                "by hand only, using warm water and a little washing-up liquid"
+            ],
+            "answer_start": [
+                291
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "How often should the parts of the central spot be cleaned?",
+        "Answer": {
+            "text": [
+                "With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week"
+            ],
+            "answer_start": [
+                354
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "Why should the parts of the central spouts be cleaned so often?",
+        "Answer": {
+            "text": [
+                "remove coffee deposits and milk residues effectively"
+            ],
+            "answer_start": [
+                502
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "Can I remove the milk pipework connecting piece when cleaning?",
+        "Answer": {
+            "text": [
+                "Do not remove the milk pipework connecting piece."
+            ],
+            "answer_start": [
+                556
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "What should be used to clean  the milk pipework connecting piece?",
+        "Answer": {
+            "text": [
+                "the cleaning brush"
+            ],
+            "answer_start": [
+                652
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "How often shoul dthe sensor rim cup be cleaned?",
+        "Answer": {
+            "text": [
+                "once a week"
+            ],
+            "answer_start": [
+                479
+            ]
+        }
+    },
+    {
+        "Context": "It is important to clean the machine regularly, as the used coffee grounds will soon go mouldy. Milk residues can go off and can block the milk pipework. Clean the drip tray and waste container every day to avoid unpleasant smells and mildew. Clean the central spout\u0092s stainless steel cover by hand only, using warm water and a little washing-up liquid. With the exception of the stainless steel cover, all parts of the central spout should be cleaned in the dishwasher at least once a week. This will remove coffee deposits and milk residues effectively. Do not remove the milk pipework connecting piece. If necessary, clean the connecting piece with the cleaning brush. Clean the cup rim sensor at least once a week and more often if heavily soiled. The cup rim sensor can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid.",
+        "Question": "How should the cup rim sensor be cleaned?",
+        "Answer": {
+            "text": [
+                "in the dishwasher, or by hand using warm water and a little washing-up liquid"
+            ],
+            "answer_start": [
+                786
+            ]
+        }
+    },
+    {
+        "Context": "The milk valve seal can be damaged by objects with sharp edges or similar. Do not use any sharp-edged objects (such as knives) to clean the milk valve. Both the lid and the glass flask can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid. The milk valve cover should only be cleaned by hand. Do not immerse the bean containers in liquids, e.g. soapy water. If required, you can clean the lids of the bean containers by hand with warm water and a little washing-up liquid. Dry the lids thoroughly before refitting them on the bean containers. Do not remove the components of the bean container for improving the flow of the beans. ",
+        "Question": "Is there any special care that should be taken when cleaning the milk valve?",
+        "Answer": {
+            "text": [
+                "Do not use any sharp-edged objects (such as knives) to clean the milk valve."
+            ],
+            "answer_start": [
+                75
+            ]
+        }
+    },
+    {
+        "Context": "The milk valve seal can be damaged by objects with sharp edges or similar. Do not use any sharp-edged objects (such as knives) to clean the milk valve. Both the lid and the glass flask can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid. The milk valve cover should only be cleaned by hand. Do not immerse the bean containers in liquids, e.g. soapy water. If required, you can clean the lids of the bean containers by hand with warm water and a little washing-up liquid. Dry the lids thoroughly before refitting them on the bean containers. Do not remove the components of the bean container for improving the flow of the beans. ",
+        "Question": "How to clean the lid?",
+        "Answer": {
+            "text": [
+                "in the dishwasher, or by hand using warm water and a little washing-up liquid"
+            ],
+            "answer_start": [
+                200
+            ]
+        }
+    },
+    {
+        "Context": "The milk valve seal can be damaged by objects with sharp edges or similar. Do not use any sharp-edged objects (such as knives) to clean the milk valve. Both the lid and the glass flask can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid. The milk valve cover should only be cleaned by hand. Do not immerse the bean containers in liquids, e.g. soapy water. If required, you can clean the lids of the bean containers by hand with warm water and a little washing-up liquid. Dry the lids thoroughly before refitting them on the bean containers. Do not remove the components of the bean container for improving the flow of the beans. ",
+        "Question": "How to clean the glass flask?",
+        "Answer": {
+            "text": [
+                "in the dishwasher, or by hand using warm water and a little washing-up liquid"
+            ],
+            "answer_start": [
+                200
+            ]
+        }
+    },
+    {
+        "Context": "The milk valve seal can be damaged by objects with sharp edges or similar. Do not use any sharp-edged objects (such as knives) to clean the milk valve. Both the lid and the glass flask can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid. The milk valve cover should only be cleaned by hand. Do not immerse the bean containers in liquids, e.g. soapy water. If required, you can clean the lids of the bean containers by hand with warm water and a little washing-up liquid. Dry the lids thoroughly before refitting them on the bean containers. Do not remove the components of the bean container for improving the flow of the beans. ",
+        "Question": "How can I clean the milk valve cover?",
+        "Answer": {
+            "text": [
+                "by hand"
+            ],
+            "answer_start": [
+                222
+            ]
+        }
+    },
+    {
+        "Context": "The milk valve seal can be damaged by objects with sharp edges or similar. Do not use any sharp-edged objects (such as knives) to clean the milk valve. Both the lid and the glass flask can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid. The milk valve cover should only be cleaned by hand. Do not immerse the bean containers in liquids, e.g. soapy water. If required, you can clean the lids of the bean containers by hand with warm water and a little washing-up liquid. Dry the lids thoroughly before refitting them on the bean containers. Do not remove the components of the bean container for improving the flow of the beans. ",
+        "Question": "What precaution should be taken when cleaning the bean conatiners?",
+        "Answer": {
+            "text": [
+                "Do not immerse the bean containers in liquids, e.g. soapy water"
+            ],
+            "answer_start": [
+                332
+            ]
+        }
+    },
+    {
+        "Context": "The milk valve seal can be damaged by objects with sharp edges or similar. Do not use any sharp-edged objects (such as knives) to clean the milk valve. Both the lid and the glass flask can be cleaned in the dishwasher, or by hand using warm water and a little washing-up liquid. The milk valve cover should only be cleaned by hand. Do not immerse the bean containers in liquids, e.g. soapy water. If required, you can clean the lids of the bean containers by hand with warm water and a little washing-up liquid. Dry the lids thoroughly before refitting them on the bean containers. Do not remove the components of the bean container for improving the flow of the beans. ",
+        "Question": "How do I clean the bean containers?",
+        "Answer": {
+            "text": [
+                "by hand with warm water and a little washing-up liquid"
+            ],
+            "answer_start": [
+                456
+            ]
+        }
+    },
+    {
+        "Context": "The moving parts of the brew unit are lubricated. Cleaning agents will damage the brew unit. Only clean the brew unit by hand with warm water. Do not use any cleaning agents. The brew unit is not dishwasher safe. Clean the brew unit by hand only under warm running water. Do not use washing-up liquid or any other cleaning agent. Remove and clean the brew unit once a week. Also clean the area below the brew unit once a week. When you have removed the brew unit, do not change the position of the handle on the brew unit. Otherwise, the brew unit cannot be reinserted. Clean the brew unit by hand under warm running water without using cleaning agent.",
+        "Question": "Can I clean the brew unit in dishwasher? ",
+        "Answer": {
+            "text": [
+                "The brew unit is not dishwasher safe"
+            ],
+            "answer_start": [
+                175
+            ]
+        }
+    },
+    {
+        "Context": "The moving parts of the brew unit are lubricated. Cleaning agents will damage the brew unit. Only clean the brew unit by hand with warm water. Do not use any cleaning agents. The brew unit is not dishwasher safe. Clean the brew unit by hand only under warm running water. Do not use washing-up liquid or any other cleaning agent. Remove and clean the brew unit once a week. Also clean the area below the brew unit once a week. When you have removed the brew unit, do not change the position of the handle on the brew unit. Otherwise, the brew unit cannot be reinserted. Clean the brew unit by hand under warm running water without using cleaning agent.",
+        "Question": "How to clean the brew unit?",
+        "Answer": {
+            "text": [
+                "by hand only under warm running water"
+            ],
+            "answer_start": [
+                233
+            ]
+        }
+    },
+    {
+        "Context": "The moving parts of the brew unit are lubricated. Cleaning agents will damage the brew unit. Only clean the brew unit by hand with warm water. Do not use any cleaning agents. The brew unit is not dishwasher safe. Clean the brew unit by hand only under warm running water. Do not use washing-up liquid or any other cleaning agent. Remove and clean the brew unit once a week. Also clean the area below the brew unit once a week. When you have removed the brew unit, do not change the position of the handle on the brew unit. Otherwise, the brew unit cannot be reinserted. Clean the brew unit by hand under warm running water without using cleaning agent.",
+        "Question": "How often do I clean the brew unit?",
+        "Answer": {
+            "text": [
+                "once a week"
+            ],
+            "answer_start": [
+                361
+            ]
+        }
+    },
+    {
+        "Context": "The moving parts of the brew unit are lubricated. Cleaning agents will damage the brew unit. Only clean the brew unit by hand with warm water. Do not use any cleaning agents. The brew unit is not dishwasher safe. Clean the brew unit by hand only under warm running water. Do not use washing-up liquid or any other cleaning agent. Remove and clean the brew unit once a week. Also clean the area below the brew unit once a week. When you have removed the brew unit, do not change the position of the handle on the brew unit. Otherwise, the brew unit cannot be reinserted. Clean the brew unit by hand under warm running water without using cleaning agent.",
+        "Question": "Can I change the position of the handle on the brew unit?",
+        "Answer": {
+            "text": [
+                "do not change the position of the handle on the brew unit"
+            ],
+            "answer_start": [
+                464
+            ]
+        }
+    },
+    {
+        "Context": "The moving parts of the brew unit are lubricated. Cleaning agents will damage the brew unit. Only clean the brew unit by hand with warm water. Do not use any cleaning agents. The brew unit is not dishwasher safe. Clean the brew unit by hand only under warm running water. Do not use washing-up liquid or any other cleaning agent. Remove and clean the brew unit once a week. Also clean the area below the brew unit once a week. When you have removed the brew unit, do not change the position of the handle on the brew unit. Otherwise, the brew unit cannot be reinserted. Clean the brew unit by hand under warm running water without using cleaning agent.",
+        "Question": "Which cleaning agent do I use to clean the brew unit?",
+        "Answer": {
+            "text": [
+                "Do not use washing-up liquid or any other cleaning agent"
+            ],
+            "answer_start": [
+                272
+            ]
+        }
+    }
+]

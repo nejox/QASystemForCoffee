@@ -1,0 +1,109 @@
+{
+  "manufacturer_name": "Philipps",
+  "base_url": "https://www.philips.de/",
+  "onlyDynamic": true,
+  "sleepTime": 4,
+  "paths": [
+    "https://www.philips.de/c-m-ho/kaffee/neueste#availability=all&filters=SENSEO_SU%2CBEANTOCUP_SU2%2CPORTIONED_ESPRESSO_SU2%2CSUPER_AUTOMATIC_ESPRESSO_SU&layout=96",
+    "https://www.philips.de/c-m-ho/kaffee/neueste#availability=all&filters=SENSEO_SU%2CBEANTOCUP_SU2%2CPORTIONED_ESPRESSO_SU2%2CSUPER_AUTOMATIC_ESPRESSO_SU&page=1&layout=96"
+  ],
+  "layers": [
+    {
+    "html_tag": "a",
+    "html_class": "p-pc05v2__card-view-product-link",
+    "css_selector": "a.p-pc05v2__card-view-product-link",
+    "filter": [
+      {
+        "condition_string": "milk",
+        "include_condition": false
+      },
+      {
+        "condition_string": "tassentablett",
+        "include_condition": false
+      },
+      {
+        "condition_string": "entkalker",
+        "include_condition": false
+      },
+      {
+        "condition_string": "kanne",
+        "include_condition": false
+      },
+      {
+        "condition_string": "filterhalter",
+        "include_condition": false
+      },
+      {
+        "condition_string": "deckel",
+        "include_condition": false
+      },
+      {
+        "condition_string": "behälter",
+        "include_condition": false
+      },
+      {
+        "condition_string": "schale",
+        "include_condition": false
+      },
+      {
+        "condition_string": "auslauf",
+        "include_condition": false
+      },
+      {
+        "condition_string": "generalueberholt",
+        "include_condition": false
+      }
+    ]
+  },
+    {
+    "html_tag": "a",
+    "html_class": "p-p90__banner p-p90__banner--support",
+    "css_selector": "a.p-p90__banner.p-p90__banner--support",
+    "filter": null
+  }],
+  "pdf": {
+    "html_tag": "a",
+    "html_class": "p-n30__nav-switcher",
+    "css_selector": "li.p-type-pdf.p-l-one-quarter.p-m-one-half.p-one-whole.p-grid-item.p-show-block a",
+    "filter": [
+      {
+        "condition_string": ".zip",
+        "include_condition": false
+      }
+    ]
+  },
+  "meta": {
+    "manual_name": "li.p-type-pdf.p-l-one-quarter.p-m-one-half.p-one-whole.p-grid-item.p-show-block span.p-info-title.p-heading-bold.p-heading-04",
+    "product_name": "div.p-p15v3__main-text.p-p15v3-new-design.p-l-five-twelfths > p",
+    "filter" : [
+      {
+        "condition_string": "adobe",
+        "include_condition": false
+      },
+      {
+        "condition_string" : "EU Declaration of conformity",
+        "include_condition": false
+      },
+      {
+        "condition_string" : "EU Declaration of Conformity",
+        "include_condition": false
+      },
+      {
+        "condition_string" : "Landesspezifische Werbebroschüre",
+        "include_condition": false
+      },
+      {
+        "condition_string": "Important Information Manual",
+        "include_condition": false
+      },
+      {
+        "condition_string": "Kaffeepadmaschine",
+        "include_condition": false
+      },
+      {
+        "condition_string": "Kaffeevollautomat",
+        "include_condition": false
+      }
+    ]
+  }
+}

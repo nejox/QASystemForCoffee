@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CoffeeApp</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+</style>
+</head>
+<body>
+
+<!-- Header fa fa-coffee  -->
+<header class="w3-container w3-red w3-center" style="padding:12px 16px">
+  <div class="w3-content">
+    <div class="">
+      <h1 class="w3-margin w3-jumbo w3-text-grey"><b>CoffeeApp</b></h1>
+      <i class=" "></i>
+    </div>
+    </div>
+
+      <p class=""></p>
+</header>
+
+<div class="w3-row-padding w3-padding-64 w3-container w3-center">
+  <h1 class="w3-margin"><b>ASK YOUR QUESTION</b></h1>
+  <form method="post">
+    {% csrf_token %}
+    <label class="w3-xlarge" for="manufacturer_select">What Manufacturer?</label>
+        <select style="width:200px;" name="manufacturer" id="manufacturer_select" onchange="update_products()">
+            <option value="">-----</option>
+        {% for manufacturer in manufacturers %}
+            <option value="{{ manufacturer }}">{{ manufacturer }}</option>
+        {% endfor %}
+        </select>
+    <br>
+    <label class="w3-xlarge" for="product_select">What Model?</label>
+        <select name="product" id="product_select">
+            <option value="">-----</option>
+        {% for product in products_by_manufacturer.manufacturer %}
+            <option value="{{ product }}">{{ product }}</option>
+        {% endfor %}
+        </select>
+    <br>
+    <label class="w3-xlarge" for="question_input">What is your question?</label>
+    <input type="text" style="width:200px;" name="question" id="question">
+    <br>
+    <input class="w3-button w3-black w3-padding-large w3-large w3-margin-top" type="submit" value="Anwer my Question!">
+  </form>
+</div>
+<!-- First Grid -->
+<!-- <div class="w3-row-padding w3-padding-64 w3-container w3-center">
+  <h1 class="w3-margin"><b>ASK YOUR QUESTION</b></h1>
+  <p class="w3-xlarge">What Manufacturer?</p>
+    <select form="hform" style="width:200px;" id="select_manufacturer">
+      <option value="{{manufacturer}}">TO DO</option>
+    </select>
+  <p class="w3-xlarge">What Model?</p>
+    <select form="hform" style="width:200px;" id="select_model">
+      <option value="{{model}}">TO DO</option>
+    </select>
+    <p class="w3-xlarge">What is your question?</p>
+    <input type="text" style="width:200px;" name="question" id="question">
+    </input>
+  <br>
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top"
+          onclick="ask_question()">
+    Anwer my Question!
+    </button>
+</div> -->
+
+
+{% if answers %}
+  <div align="center">
+    <hr>
+    <h3>Predicted Answers:</h3>
+    <ul>
+    {% for answer in answers %}
+        <p>{{ answer }}</p>
+    {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
+
+<!-- Second Grid -->
+<div class="w3-row-padding w3-light-grey w3-container">
+  <div class="w3-content">
+      <h5 class="w3-padding-32"></h5>
+      <p class="w3-text-grey"></p>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity">
+  <div class="w3-xlarge w3-padding-32">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+ </div>
+ <p>Project by <a href="https://www.fhws.de" target="_blank">Esther, Marius, Lennard, Jochen</a></p>
+</footer>
+
+<script>
+function ask_question(){
+q = document.getElementById('question').value
+alert(q)
+}
+
+</script>
+
+</body>
+</html>
+
+<script>
+  function update_products() {
+    // Get the selected manufacturer
+    var manufacturer_select = document.getElementById("manufacturer_select");
+    var manufacturer = manufacturer_select.options[manufacturer_select.selectedIndex].value;
+
+    // Make an AJAX request to your Django app to retrieve the list of products for the selected manufacturer
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        // Update the products dropdown menu with the list of products received in the response
+        var products = JSON.parse(this.responseText);
+        var product_select = document.getElementById("product_select");
+        product_select.innerHTML = "";
+        for (var i = 0; i < products.length; i++) {
+          var product_option = document.createElement("option");
+          product_option.value = products[i];
+          product_option.innerHTML = products[i];
+          product_select.appendChild(product_option);
+        }
+      }
+    };
+    xhttp.open("GET", "/get_products?manufacturer=" + manufacturer, true);
+    xhttp.send();
+  }
+</script>

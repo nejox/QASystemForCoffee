@@ -1,0 +1,117 @@
+<div class="h-screen flex flex-col">
+    <h1 class="text-3xl font-bold w-full p-5 bg-primary text-slate-50">Coffee Machine Q&A System</h1>
+
+    <div class="flex-1 flex justify-center mt-12 relative overflow-hidden">
+        <img src="assets/images/coffee_machine.png" class="opacity-20 absolute top-0 -right-5 h-[50rem]"
+            alt="coffee-machine">
+
+        <form [formGroup]="coffeeForm" class="w-[30rem] transition duration-300 ease-in-out"
+            [class.translate-x-0]="(answerObject$ | async) === null"
+            [class.-translate-x-20]="(answerObject$ | async) !== null">
+
+            <div>
+                <app-question-header>
+                    What is your question?
+                </app-question-header>
+
+                <div class="px-3 mt-3">
+                    <input type="text" autofocus
+                        class="bg-slate-300 rounded-md p-3 w-full text-slate-700 font-bold placeholder:text-slate-500"
+                        formControlName="question" placeholder="Enter your question">
+                </div>
+            </div>
+
+            <div class="mt-8">
+                <app-question-header>
+                    What Manufacturer?
+                </app-question-header>
+
+                <div class="px-3 mt-3">
+                    <ng-container *ngIf="manufacturers$ | async as manufacturers">
+                        <select *ngIf="manufacturers.length > 0; else manufacturersLoading"
+                            formControlName="manufacturer"
+                            class="bg-slate-300 rounded-md p-3 w-full text-slate-700 font-bold cursor-pointer"
+                            [class.text-slate-500]="manufacturerControl?.value === ''">
+                            <option value="" disabled>Select a manufacturer
+                            </option>
+                            <option *ngFor="let manufacturer of manufacturers$ | async" [value]="manufacturer"
+                                class="font-semibold">
+                                {{manufacturer}}
+                            </option>
+                        </select>
+
+                        <ng-template #manufacturersLoading>
+                            <div class="bg-slate-300 rounded-md p-3 w-full text-slate-500 font-bold flex">
+                                <app-loading-spinner></app-loading-spinner>
+                                <span class="ml-3">Manufacturers are loading</span>
+                            </div>
+                        </ng-template>
+                    </ng-container>
+                </div>
+            </div>
+
+            <div class="mt-8">
+                <app-question-header>
+                    What Model?
+                </app-question-header>
+
+                <div class="px-3 mt-3">
+                    <select formControlName="product"
+                        class="bg-slate-300 rounded-md p-3 w-full text-slate-700 font-bold"
+                        [class.text-slate-500]="productControl?.value === ''"
+                        [class.cursor-not-allowed]="productControl?.disabled"
+                        [class.cursor-pointer]="productControl?.enabled">
+                        <option value="" disabled>Select a product
+                        </option>
+                        <option *ngFor="let product of products$ | async" [value]="product" class="font-semibold">
+                            {{product}}
+                        </option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="mt-12 px-3">
+                <button (click)="sendQuestion()" [disabled]="(isSubmitButtonDisabled$ | async) === true"
+                    class="bg-accent text-slate-800 font-bold p-3 rounded-md w-full transition flex justify-center items-center"
+                    [ngClass]="(isSubmitButtonDisabled$ | async) === true ? 'opacity-75 cursor-not-allowed' : 'opacity-100 cursor-pointer'">
+                    <ng-container *ngIf="answersAreLoading$ | async; else notLoading">
+                        <app-loading-spinner></app-loading-spinner>
+                    </ng-container>
+
+                    <ng-template #notLoading>Ask question</ng-template>
+                </button>
+            </div>
+        </form>
+
+        <ng-container *ngIf="coffeeForm.valid">
+            <ng-container *ngIf="answerObject$ | async as answerObject">
+                <div class="ml-12 max-w-[30%]">
+                    <div class="text-large font-bold">Generated Answer:</div>
+                    <div class="mt-3"> {{answerObject.generation}} </div>
+
+                    <div *ngIf="answerObject.extracted_answers.length > 0; else noAnswers" class="mt-5 text-sm">
+                        <div class="text-large font-bold">Based on extracted Answers:</div>
+                        <div *ngFor="let answer of answerObject.extracted_answers">
+                            <div class="mt-3">{{answer}}</div>
+                        </div>
+                    </div>
+
+                    <ng-template #noAnswers>
+                        <div class="font-bold">
+                            No answers have been found for your question.
+                        </div>
+                    </ng-template>
+                </div>
+            </ng-container>
+        </ng-container>
+    </div>
+
+    <footer class="bg-primary p-5 text-slate-50 flex justify-end">
+        <p class="font-bold">
+            Project by
+            <a href="https://www.fhws.de" target="_blank">
+                Lennard, Jochen, Marius, Esther
+            </a>
+        </p>
+    </footer>
+</div>
